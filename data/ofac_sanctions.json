@@ -1,0 +1,6561 @@
+{
+  "comment": "EVM 0x wallets extracted from OFAC SDN_ENHANCED.XML. Refresh with: uv run python scripts/extract_ofac_eth.py",
+  "source": "sdn_enhanced.xml",
+  "data_as_of": "2026-08-18T00:00:00-04:00",
+  "wallets": {
+    "0x0330070fd38ec3bb94f58fa55d40368271e9e54a": {
+      "name": "AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+      "aliases": [
+        "KOREA AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+        "\uc870\uc120\uc555\ub85d\uac15\uae30\uc220\uac1c\ubc1c\ud68c\uc0ac",
+        "KOREA APROKGANG TECHNOLOGY COMPANY",
+        "YALU RIVER TECHNOLOGY DEVELOPMENT COMPANY",
+        "AMNOKGANG TECHNOLOGY DEVELOPMENT CORPORATION"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "57056",
+      "identity_id": "48475",
+      "programs": [
+        "DPRK4"
+      ],
+      "legal_authorities": [
+        "Executive Order 13810 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-03-12",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TNrX2FwrHKoo4XACGkmSzqeK4pdnKYn6Z7"
+        },
+        {
+          "currency": "TRX",
+          "value": "TEEYCuGDyeNkuDj4u6GQRXxXo3Nh29r2vP"
+        },
+        {
+          "currency": "TRX",
+          "value": "TZB4NrX7k9ZsV6PRc1GigAztLL8WHpLvwP"
+        },
+        {
+          "currency": "TRX",
+          "value": "TDe2UNAvuUnTbbDo7518eMe3TXN5qJW8Ft"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x038989cbb1710c72b9920dc4fa529158f463e72c": {
+      "name": "OJEDA AVILES, Armando de Jesus",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "57107",
+      "identity_id": "48526",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)",
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-05-20",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "SINALOA CARTEL",
+          "related_entity_id": "11440"
+        }
+      ],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x04dba1194ee10112fe6c3207c0687def0e78bacf": {
+      "name": "PEIJNENBURG, Alex Adrianus Martinus",
+      "aliases": [
+        "PEIJNENBURG, Aam",
+        "PEIJNENBURG, Alex Adrianus Martin"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "39585",
+      "identity_id": "31209",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4"
+        },
+        {
+          "currency": "XBT",
+          "value": "129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr"
+        },
+        {
+          "currency": "XBT",
+          "value": "12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Js6goCey2NaqPQptiLANLQGuk4d6mowjP"
+        },
+        {
+          "currency": "XBT",
+          "value": "13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN"
+        },
+        {
+          "currency": "XBT",
+          "value": "1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf"
+        },
+        {
+          "currency": "XBT",
+          "value": "386wa1UM6nA798AWNh64jdrejZyedeXgUN"
+        },
+        {
+          "currency": "XBT",
+          "value": "15UdZbmGPa2LatD3abtGpphgkHLFWftV4R"
+        },
+        {
+          "currency": "XBT",
+          "value": "16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x08723392ed15743cc38513c4925f5e6be5c17243": {
+      "name": "LAZARUS GROUP",
+      "aliases": [
+        "HIDDEN COBRA",
+        "OFFICE 91",
+        "GUARDIANS OF PEACE",
+        "THE NEW ROMANTIC CYBER ARMY TEAM",
+        "WHOIS HACKING TEAM",
+        "RED DOT",
+        "TEMP.HERMIT",
+        "GROUP 77"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "27307",
+      "identity_id": "19011",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2019-09-13",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x08b2efdcdb8822efe5ad0eae55517cf5dc544251": {
+      "name": "PEIJNENBURG, Alex Adrianus Martinus",
+      "aliases": [
+        "PEIJNENBURG, Aam",
+        "PEIJNENBURG, Alex Adrianus Martin"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "39585",
+      "identity_id": "31209",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4"
+        },
+        {
+          "currency": "XBT",
+          "value": "129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr"
+        },
+        {
+          "currency": "XBT",
+          "value": "12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Js6goCey2NaqPQptiLANLQGuk4d6mowjP"
+        },
+        {
+          "currency": "XBT",
+          "value": "13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN"
+        },
+        {
+          "currency": "XBT",
+          "value": "1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf"
+        },
+        {
+          "currency": "XBT",
+          "value": "386wa1UM6nA798AWNh64jdrejZyedeXgUN"
+        },
+        {
+          "currency": "XBT",
+          "value": "15UdZbmGPa2LatD3abtGpphgkHLFWftV4R"
+        },
+        {
+          "currency": "XBT",
+          "value": "16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x0931ca4d13bb4ba75d9b7132ab690265d749a5e7": {
+      "name": "CRYPTEX",
+      "aliases": [
+        "INTERNATIONAL PAYMENT SERVICE PROVIDER LLC"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "50641",
+      "identity_id": "42202",
+      "programs": [
+        "CYBER2",
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 14024 (Russia)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2024-09-26",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024."
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "13JtX4h7G5ZuNK5mFudKGq9DHLvvMFuNuz"
+        },
+        {
+          "currency": "TRX",
+          "value": "TTUDyVhhpCC1xJoPmWzdjLAzeoPwbSABdr"
+        },
+        {
+          "currency": "LTC",
+          "value": "M8yFL6SFC6TreATegTyuSYkDfDRbisdpT3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x098b716b8aaf21512996dc57eb0615e2383e2f96": {
+      "name": "LAZARUS GROUP",
+      "aliases": [
+        "HIDDEN COBRA",
+        "OFFICE 91",
+        "GUARDIANS OF PEACE",
+        "THE NEW ROMANTIC CYBER ARMY TEAM",
+        "WHOIS HACKING TEAM",
+        "RED DOT",
+        "TEMP.HERMIT",
+        "GROUP 77"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "27307",
+      "identity_id": "19011",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2019-09-13",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0x0ee5067b06776a89ccc7dc8ee369984ad7db5e06": {
+      "name": "PEIJNENBURG, Alex Adrianus Martinus",
+      "aliases": [
+        "PEIJNENBURG, Aam",
+        "PEIJNENBURG, Alex Adrianus Martin"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "39585",
+      "identity_id": "31209",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4"
+        },
+        {
+          "currency": "XBT",
+          "value": "129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr"
+        },
+        {
+          "currency": "XBT",
+          "value": "12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Js6goCey2NaqPQptiLANLQGuk4d6mowjP"
+        },
+        {
+          "currency": "XBT",
+          "value": "13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN"
+        },
+        {
+          "currency": "XBT",
+          "value": "1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf"
+        },
+        {
+          "currency": "XBT",
+          "value": "386wa1UM6nA798AWNh64jdrejZyedeXgUN"
+        },
+        {
+          "currency": "XBT",
+          "value": "15UdZbmGPa2LatD3abtGpphgkHLFWftV4R"
+        },
+        {
+          "currency": "XBT",
+          "value": "16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x12de548f79a50d2bd05481c8515c1ef5183666a9": {
+      "name": "OLD VECTOR LLC",
+      "aliases": [
+        "OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU OLD VEKTOR"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "55046",
+      "identity_id": "46433",
+      "programs": [
+        "CYBER4"
+      ],
+      "legal_authorities": [
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2025-08-14",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "A7 LIMITED LIABILITY COMPANY",
+          "related_entity_id": "54628"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TCFD8N3vM5b4Gr5f1kkajQsodRVNyyAq1d"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x14779cec0b117d5194c750c55ea1f42086631964": {
+      "name": "OJEDA AVILES, Armando de Jesus",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "57107",
+      "identity_id": "48526",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)",
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-05-20",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "SINALOA CARTEL",
+          "related_entity_id": "11440"
+        }
+      ],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x175d44451403edf28469df03a9280c1197adb92c": {
+      "name": "GAZA NOW",
+      "aliases": [
+        "GNNANOW",
+        "GAZAALAN",
+        "GAZAALANNET"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "47635",
+      "identity_id": "39259",
+      "programs": [
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2024-03-27",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "HAMAS",
+          "related_entity_id": "4695"
+        },
+        {
+          "type": "Owned or Controlled By",
+          "related_name": "AYASH, Mustafa",
+          "related_entity_id": "48184"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Q8H2ZWMtc4R1M3mkmhnTjCoYKTeCFigDP"
+        },
+        {
+          "currency": "USDT",
+          "value": "TTgcTTNbNuFdbrhvbjMZVrdU5KALyzDaPw"
+        },
+        {
+          "currency": "USDT",
+          "value": "TGJVc32ig2u8tQsYMLE7KXHT5NDQroaVNU"
+        },
+        {
+          "currency": "USDT",
+          "value": "TXEsK1sEsKjZ1xtHitnyAAoqw3WLdYdRNW"
+        },
+        {
+          "currency": "USDT",
+          "value": "TH96tFMn8KGiYSLiwcV3E2UiaJc8jmcbz3"
+        }
+      ],
+      "currency_types": [
+        "USDT"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0x1967d8af5bd86a497fb3dd7899a020e47560daaf": {
+      "name": "GRIMM, Matthew Simon",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "39593",
+      "identity_id": "31217",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1LpYKb3SXZPve9hsH2QEJZFX279wJVGowi"
+        },
+        {
+          "currency": "XBT",
+          "value": "15uqdxqNXQwVf5H7yZPz4TmEGeSccCwdor"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FjubFHV4mpYjBmvjsEhZssyiiA4TNmnm2"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LAh7PQwpd1uGiLHae5C5Xz9QXse3y2phq"
+        },
+        {
+          "currency": "XBT",
+          "value": "15yqWQ4sqr7jzCwDtZ3U1KaCa8WMEy7Mm2"
+        },
+        {
+          "currency": "XBT",
+          "value": "19GrL5jnUkGmHXVcraB1Etv5rXCANeLWpq"
+        },
+        {
+          "currency": "XBT",
+          "value": "39NG2LcGRHXxSr1irpEVnJMw4ydL231sEn"
+        },
+        {
+          "currency": "XBT",
+          "value": "3He6EyDaCUgmdr4GXqhxbeTQukaGLCByU2"
+        },
+        {
+          "currency": "XBT",
+          "value": "12NpCkhddSNiDkD9rRYUCHsTT9ReMNiJjG"
+        },
+        {
+          "currency": "XBT",
+          "value": "32jgFkZsTEjMFaBvxJnYvJEeTNKTmq5b32"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Hpj6qm9i7nMF3VkKfBFtjhEDpEjxHWvgv"
+        },
+        {
+          "currency": "XBT",
+          "value": "194xmrZA53UBsZau2PnJLdmVVW9m5feeS"
+        },
+        {
+          "currency": "XBT",
+          "value": "361NP7YcBPQ4KkLT3Y2QZeDEV4M3yi65Ar"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LuDiMd95Df4i2bcvrfw47t2GKpLLXAQMZ"
+        },
+        {
+          "currency": "XBT",
+          "value": "3A1HH3PseYMkh2nSrBb4kkVt3815kUNVVC"
+        },
+        {
+          "currency": "XBT",
+          "value": "1F317n2eJEMaEMGiwCqtd5XCU3wF7jzPEW"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HWjh69cVQvcPeLWVCyVmXEq72nyDSj5zP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1r6S9vpUZPS5rb6gSdwV2bvSFcN3uSq4q"
+        },
+        {
+          "currency": "XBT",
+          "value": "3Jpf9B5P8cvEKSSGp9cES3Upbms8VRnXUb"
+        },
+        {
+          "currency": "XBT",
+          "value": "3EL5vcYeu1cnivLtR7tnAX3bBirr9ATNAL"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x1999ef52700c34de7ec2b68a28aafb37db0c5ade": {
+      "name": "MAGOMEDOV, Khadzhi Murat Dalgatovich",
+      "aliases": [
+        "MAGOMEDOV, Murat"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "52071",
+      "identity_id": "43663",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2024-12-04",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024."
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x19aa5fe80d33a56d56c78e82ea5e50e5d80b4dff": {
+      "name": "SUEX OTC, S.R.O.",
+      "aliases": [
+        "SUCCESSFUL EXCHANGE"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "33151",
+      "identity_id": "24775",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-09-21",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "12HQDsicffSBaYdJ6BhnE22sfjTESmmzKx"
+        },
+        {
+          "currency": "XBT",
+          "value": "1L4ncif9hh9TnUveqWq77HfWWt6CJWtrnb"
+        },
+        {
+          "currency": "XBT",
+          "value": "13mnk8SvDGqsQTHbiGiHBXqtaQCUKfcsnP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Edue8XZCWNoDBNZgnQkCCivDyr9GEo4x6"
+        },
+        {
+          "currency": "XBT",
+          "value": "1ECeZBxCVJ8Wm2JSN3Cyc6rge2gnvD3W5K"
+        },
+        {
+          "currency": "XBT",
+          "value": "1J9oGoAiHeRfeMZeUnJ9W7RpV55CdKtgYE"
+        },
+        {
+          "currency": "XBT",
+          "value": "1295rkVyNfFpqZpXvKGhDqwhP1jZcNNDMV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LiNmTUPSJEd92ZgVJjAV3RT9BzUjvUCkx"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz"
+        },
+        {
+          "currency": "XBT",
+          "value": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qdt3gml5z5n50y5hm04u2yjdphefkm0fl2zdj68"
+        },
+        {
+          "currency": "USDT",
+          "value": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz"
+        },
+        {
+          "currency": "USDT",
+          "value": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP"
+        },
+        {
+          "currency": "USDT",
+          "value": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY"
+        },
+        {
+          "currency": "USDT",
+          "value": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1B64QRxfaa35MVkf7sDjuGUYAP5izQt7Qi"
+        },
+        {
+          "currency": "USDT",
+          "value": "16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H"
+        }
+      ],
+      "currency_types": [
+        "ETH",
+        "USDT"
+      ],
+      "reliability": ""
+    },
+    "0x19f8f2b0915daa12a3f5c9cf01df9e24d53794f7": {
+      "name": "OKO DESIGN BUREAU",
+      "aliases": [],
+      "entity_type": "Entity",
+      "entity_id": "48432",
+      "identity_id": "40056",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2024-05-01",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024."
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TFdTr9C3BqQrzKBXqSxJfAZFTh8UwBAfSg"
+        },
+        {
+          "currency": "XBT",
+          "value": "13fhnkmpBBWXUQucJd6efWvXdEj78DKavk"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x1d19b52b54e7ef5ea1a4b40b616165e798eac9f8": {
+      "name": "RASHEVSKYI, Dmytro",
+      "aliases": [
+        "RASHEVSKY, Dmitry",
+        "SORIN, Maksim",
+        "CHABANENKO, Roman",
+        "WALKER, Johny",
+        "JOHNYW255",
+        "JOBBERJOBBER777",
+        "RASHDV7"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "57978",
+      "identity_id": "49477",
+      "programs": [
+        "CYBER4"
+      ],
+      "legal_authorities": [
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-07-13",
+      "secondary_sanctions": [],
+      "countries": [
+        "Ukraine"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1MTndG4K51RRMvkzyvguaHnQpiMLnxFGzM"
+        },
+        {
+          "currency": "TRX",
+          "value": "TTLRNgLpz5H5tLPuNU4FViUs7zmmAtyvzW"
+        },
+        {
+          "currency": "SOL",
+          "value": "Fc1EwQUZyTEagaDvA1utHXCcZNyG1x2PLt2DfNu1cJdH"
+        },
+        {
+          "currency": "LTC",
+          "value": "LcP1DumXkNJbBtSYD3XxAfsJ2nZR5hLdpM"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DfyWkiXVVqWfcSduj23qTDis9kb2qvRDa"
+        },
+        {
+          "currency": "DOGE",
+          "value": "DHzAVdEoL3PjGeLWNdEJwwMA1CeQ9J9Cpo"
+        },
+        {
+          "currency": "DASH",
+          "value": "XcuGqRfrR85zyDrzVr1gSL5RNjwwpbu2KS"
+        },
+        {
+          "currency": "ZEC",
+          "value": "t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh"
+        },
+        {
+          "currency": "LTC",
+          "value": "LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1"
+        },
+        {
+          "currency": "DOGE",
+          "value": "DTqpKQ96rqkTvHcohQQd9BksmgRjasHgGo"
+        },
+        {
+          "currency": "DASH",
+          "value": "XowUeMFa1FkEUnAHL78E5oqpezMfSB6xP1"
+        },
+        {
+          "currency": "TRX",
+          "value": "TBFW9gF4oDX5cG44gS7AoxQeujScmm3z6h"
+        },
+        {
+          "currency": "SOL",
+          "value": "FuCC7GoYwt5TsNTjWL23Xx9UKCvC18chjMEFPL3vJDCC"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x1da5821544e25c636c1417ba96ade4cf6d2f9b5a": {
+      "name": "SECONDEYE SOLUTION",
+      "aliases": [
+        "FORWARDERZ"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "30518",
+      "identity_id": "22202",
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-04-15",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "INTERNET RESEARCH AGENCY LLC",
+          "related_entity_id": "23943"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1NE2NiGhhbkFPSEyNWwj7hKGhGDedBtSrQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "19D8PHBjZH29uS1uPZ4m3sVyqqfF8UFG9o"
+        },
+        {
+          "currency": "XBT",
+          "value": "1EYitrwBYNWuTBcjZFbEUdqHppe2raLpaF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9CKRHA3mx22DoT1QyNYrh85VSQ19Y1em"
+        },
+        {
+          "currency": "XBT",
+          "value": "182NGZbPJXwg2WDrhrPpR7tpiGQkNPF844"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NayLEVF3bEEbDtdF2Cwso1VdEtvVNh2qX"
+        },
+        {
+          "currency": "XBT",
+          "value": "16PhXY3hNNMTo8kpuJx2emh713KbWpkqci"
+        },
+        {
+          "currency": "XBT",
+          "value": "1GqChmWqGtsaLrGbHfgdrV5Nkvahtjjuxr"
+        },
+        {
+          "currency": "XBT",
+          "value": "18Ke1QWE9nQfXuhJijHggZuPJ5ZYxapoBK"
+        },
+        {
+          "currency": "XBT",
+          "value": "1QJUiNsNfji6mR1FjAwf6Eg9NxxHPoxpWL"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DtGgdCi9VPKz2Bpq8GQhUQEPnQ5HwaT9n"
+        },
+        {
+          "currency": "BCH",
+          "value": "18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB"
+        },
+        {
+          "currency": "LTC",
+          "value": "LQAhYwwK5AR1JQiQPr7vu8Pu4b6qcxxvNB"
+        },
+        {
+          "currency": "LTC",
+          "value": "LgwmgYnraU2uBWHVFUDgAmFCPYj5Yw8C9L"
+        },
+        {
+          "currency": "LTC",
+          "value": "LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x21b8d56bda776bbe68655a16895afd96f5534fed": {
+      "name": "GAZA NOW",
+      "aliases": [
+        "GNNANOW",
+        "GAZAALAN",
+        "GAZAALANNET"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "47635",
+      "identity_id": "39259",
+      "programs": [
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2024-03-27",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "HAMAS",
+          "related_entity_id": "4695"
+        },
+        {
+          "type": "Owned or Controlled By",
+          "related_name": "AYASH, Mustafa",
+          "related_entity_id": "48184"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Q8H2ZWMtc4R1M3mkmhnTjCoYKTeCFigDP"
+        },
+        {
+          "currency": "USDT",
+          "value": "TTgcTTNbNuFdbrhvbjMZVrdU5KALyzDaPw"
+        },
+        {
+          "currency": "USDT",
+          "value": "TGJVc32ig2u8tQsYMLE7KXHT5NDQroaVNU"
+        },
+        {
+          "currency": "USDT",
+          "value": "TXEsK1sEsKjZ1xtHitnyAAoqw3WLdYdRNW"
+        },
+        {
+          "currency": "USDT",
+          "value": "TH96tFMn8KGiYSLiwcV3E2UiaJc8jmcbz3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0x2711d73d559f62f4f855ee21f38378f528e07985": {
+      "name": "FIRST VPN SERVICE",
+      "aliases": [
+        "1VPNS",
+        "FVPNS",
+        "FIRSTVPN"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "57975",
+      "identity_id": "49474",
+      "programs": [
+        "CYBER4"
+      ],
+      "legal_authorities": [
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-07-13",
+      "secondary_sanctions": [],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TUuaxBAWfA5nmsqNfycxYrzEvz4a5GJMGY"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qdnr88f4d2yqunnc4mjsguezm6g3mlwe44z5dw8"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qr4ankqmvmrhce3ydvzse86dfx5s3zhehfr9tg9"
+        },
+        {
+          "currency": "LTC",
+          "value": "ltc1qr8ntsedq8tv0svmxqhzvdcdl5k7kntdmnhwep7"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x2c7dcd774b33e10367f7d6385479e04f97d179dc": {
+      "name": "RASHEVSKYI, Dmytro",
+      "aliases": [
+        "RASHEVSKY, Dmitry",
+        "SORIN, Maksim",
+        "CHABANENKO, Roman",
+        "WALKER, Johny",
+        "JOHNYW255",
+        "JOBBERJOBBER777",
+        "RASHDV7"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "57978",
+      "identity_id": "49477",
+      "programs": [
+        "CYBER4"
+      ],
+      "legal_authorities": [
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-07-13",
+      "secondary_sanctions": [],
+      "countries": [
+        "Ukraine"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1MTndG4K51RRMvkzyvguaHnQpiMLnxFGzM"
+        },
+        {
+          "currency": "TRX",
+          "value": "TTLRNgLpz5H5tLPuNU4FViUs7zmmAtyvzW"
+        },
+        {
+          "currency": "SOL",
+          "value": "Fc1EwQUZyTEagaDvA1utHXCcZNyG1x2PLt2DfNu1cJdH"
+        },
+        {
+          "currency": "LTC",
+          "value": "LcP1DumXkNJbBtSYD3XxAfsJ2nZR5hLdpM"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DfyWkiXVVqWfcSduj23qTDis9kb2qvRDa"
+        },
+        {
+          "currency": "DOGE",
+          "value": "DHzAVdEoL3PjGeLWNdEJwwMA1CeQ9J9Cpo"
+        },
+        {
+          "currency": "DASH",
+          "value": "XcuGqRfrR85zyDrzVr1gSL5RNjwwpbu2KS"
+        },
+        {
+          "currency": "ZEC",
+          "value": "t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh"
+        },
+        {
+          "currency": "LTC",
+          "value": "LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1"
+        },
+        {
+          "currency": "DOGE",
+          "value": "DTqpKQ96rqkTvHcohQQd9BksmgRjasHgGo"
+        },
+        {
+          "currency": "DASH",
+          "value": "XowUeMFa1FkEUnAHL78E5oqpezMfSB6xP1"
+        },
+        {
+          "currency": "TRX",
+          "value": "TBFW9gF4oDX5cG44gS7AoxQeujScmm3z6h"
+        },
+        {
+          "currency": "SOL",
+          "value": "FuCC7GoYwt5TsNTjWL23Xx9UKCvC18chjMEFPL3vJDCC"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x2f389ce8bd8ff92de3402ffce4691d17fc4f6535": {
+      "name": "SUEX OTC, S.R.O.",
+      "aliases": [
+        "SUCCESSFUL EXCHANGE"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "33151",
+      "identity_id": "24775",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-09-21",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "12HQDsicffSBaYdJ6BhnE22sfjTESmmzKx"
+        },
+        {
+          "currency": "XBT",
+          "value": "1L4ncif9hh9TnUveqWq77HfWWt6CJWtrnb"
+        },
+        {
+          "currency": "XBT",
+          "value": "13mnk8SvDGqsQTHbiGiHBXqtaQCUKfcsnP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Edue8XZCWNoDBNZgnQkCCivDyr9GEo4x6"
+        },
+        {
+          "currency": "XBT",
+          "value": "1ECeZBxCVJ8Wm2JSN3Cyc6rge2gnvD3W5K"
+        },
+        {
+          "currency": "XBT",
+          "value": "1J9oGoAiHeRfeMZeUnJ9W7RpV55CdKtgYE"
+        },
+        {
+          "currency": "XBT",
+          "value": "1295rkVyNfFpqZpXvKGhDqwhP1jZcNNDMV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LiNmTUPSJEd92ZgVJjAV3RT9BzUjvUCkx"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz"
+        },
+        {
+          "currency": "XBT",
+          "value": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qdt3gml5z5n50y5hm04u2yjdphefkm0fl2zdj68"
+        },
+        {
+          "currency": "USDT",
+          "value": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz"
+        },
+        {
+          "currency": "USDT",
+          "value": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP"
+        },
+        {
+          "currency": "USDT",
+          "value": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY"
+        },
+        {
+          "currency": "USDT",
+          "value": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1B64QRxfaa35MVkf7sDjuGUYAP5izQt7Qi"
+        },
+        {
+          "currency": "USDT",
+          "value": "16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H"
+        }
+      ],
+      "currency_types": [
+        "ETH",
+        "USDT"
+      ],
+      "reliability": ""
+    },
+    "0x308ed4b7b49797e1a98d3818bff6fe5385410370": {
+      "name": "SUEX OTC, S.R.O.",
+      "aliases": [
+        "SUCCESSFUL EXCHANGE"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "33151",
+      "identity_id": "24775",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-09-21",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "12HQDsicffSBaYdJ6BhnE22sfjTESmmzKx"
+        },
+        {
+          "currency": "XBT",
+          "value": "1L4ncif9hh9TnUveqWq77HfWWt6CJWtrnb"
+        },
+        {
+          "currency": "XBT",
+          "value": "13mnk8SvDGqsQTHbiGiHBXqtaQCUKfcsnP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Edue8XZCWNoDBNZgnQkCCivDyr9GEo4x6"
+        },
+        {
+          "currency": "XBT",
+          "value": "1ECeZBxCVJ8Wm2JSN3Cyc6rge2gnvD3W5K"
+        },
+        {
+          "currency": "XBT",
+          "value": "1J9oGoAiHeRfeMZeUnJ9W7RpV55CdKtgYE"
+        },
+        {
+          "currency": "XBT",
+          "value": "1295rkVyNfFpqZpXvKGhDqwhP1jZcNNDMV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LiNmTUPSJEd92ZgVJjAV3RT9BzUjvUCkx"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz"
+        },
+        {
+          "currency": "XBT",
+          "value": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qdt3gml5z5n50y5hm04u2yjdphefkm0fl2zdj68"
+        },
+        {
+          "currency": "USDT",
+          "value": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz"
+        },
+        {
+          "currency": "USDT",
+          "value": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP"
+        },
+        {
+          "currency": "USDT",
+          "value": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY"
+        },
+        {
+          "currency": "USDT",
+          "value": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1B64QRxfaa35MVkf7sDjuGUYAP5izQt7Qi"
+        },
+        {
+          "currency": "USDT",
+          "value": "16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x32da24ca413f3e7b53145d4737e172c3bdf81e3e": {
+      "name": "OJEDA AVILES, Armando de Jesus",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "57107",
+      "identity_id": "48526",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)",
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-05-20",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "SINALOA CARTEL",
+          "related_entity_id": "11440"
+        }
+      ],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x35fb6f6db4fb05e6a4ce86f2c93691425626d4b1": {
+      "name": "LAZARUS GROUP",
+      "aliases": [
+        "HIDDEN COBRA",
+        "OFFICE 91",
+        "GUARDIANS OF PEACE",
+        "THE NEW ROMANTIC CYBER ARMY TEAM",
+        "WHOIS HACKING TEAM",
+        "RED DOT",
+        "TEMP.HERMIT",
+        "GROUP 77"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "27307",
+      "identity_id": "19011",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2019-09-13",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x38735f03b30fbc022ddd06abed01f0ca823c6a94": {
+      "name": "HANAFIN, John Desmond",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "43085",
+      "identity_id": "34709",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-05-19",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024."
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "relationships": [
+        {
+          "type": "Leader or official of",
+          "related_name": "HURIYA PRIVATE FZE LLE",
+          "related_entity_id": "43083"
+        }
+      ],
+      "other_crypto": [],
+      "currency_types": [
+        "USDT"
+      ],
+      "reliability": ""
+    },
+    "0x39d908dac893cbcb53cc86e0ecc369aa4def1a29": {
+      "name": "ZIMENKOV, Jonatan",
+      "aliases": [
+        "ZIMENKOV, Natan Igorevich",
+        "\u0417\u0418\u041c\u0415\u041d\u041a\u041e\u0412, \u041d\u0430\u0442\u0430\u043d \u0418\u0433\u043e\u0440\u0435\u0432\u0438\u0447",
+        "ZIMENKOV, Jonathan"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "40488",
+      "identity_id": "32112",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-02-01",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024."
+      ],
+      "countries": [
+        "Russia",
+        "Italy",
+        "Israel"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "ZIMENKOV, Igor Vladimirovich",
+          "related_entity_id": "40456"
+        },
+        {
+          "type": "Providing support to",
+          "related_name": "ROSOBORONEKSPORT OAO",
+          "related_entity_id": "18782"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x3ad9db589d201a710ed237c829c7860ba86510fc": {
+      "name": "TASK FORCE RUSICH",
+      "aliases": [
+        "RUSICH SABOTAGE AND ASSAULT RECONNAISSANCE GROUP",
+        "SABOTAGE AND ASSAULT RECONNAISSANCE GROUP RUSICH",
+        "RUSICH TASK FORCE",
+        "MILITARY-PATRIOTIC CLUB RUSICH",
+        "DSHRG RUSICH",
+        "\u0414\u0428\u0420\u0413 \u0420\u0423\u0421\u0418\u0427"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "38665",
+      "identity_id": "30289",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-09-15",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024."
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "USDT",
+          "value": "TX5GV4DyfxNB3rPkzZJhmqZ1efVmL4rEqG"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1ql7dlyh8xz6tpqk92vztrhqh88dmjvcwrmsemrm"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q2lpgjntr348pfvxhfy33ehmdzy3gmx8w4052z6"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x3cbded43efdaf0fc77b9c55f6fc9988fcc9b757d": {
+      "name": "SOUTHFRONT",
+      "aliases": [
+        "SOUTH FRONT",
+        "SOUTHFRONT: ANALYSIS & INTELLIGENCE"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "31212",
+      "identity_id": "22896",
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)",
+        "Executive Order 13382 (Non-proliferation)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-04-15",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Owned or Controlled By",
+          "related_name": "FEDERAL SECURITY SERVICE",
+          "related_entity_id": "21344"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Gbs4rjcVUtQd8p3CiFUCxPLZwRqurezRZ"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpf2cphc5dkuclkqur7lhj2yuqq9pk3hmukle77vhq"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qv7k70u2zynvem59u88ctdlaw7hc735d8xep9rq"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qw4cxpe6sxa5dg6sdwxjph959cw6yztrzl4r54s"
+        },
+        {
+          "currency": "BCH",
+          "value": "qzjv8hrdvz6edu4gkzpnd4w6jc7zf296g5e9kkq4lx"
+        },
+        {
+          "currency": "BCH",
+          "value": "qq3vlashthktqpeppuv7trmw070e3mydgq63zq348v"
+        },
+        {
+          "currency": "XMR",
+          "value": "884Bz8UH63aYsjVdkfWfScRYWZGGNbjFL7pztqvWNSrtYT4reFSwyvkCj9KEGUtheHhhMUj87ciTBFyzoesrMJ4L1FvSoxL"
+        },
+        {
+          "currency": "XMR",
+          "value": "49HqitRzdnhYjgTEAhgGpCfsjdTeMbUTU6cyR4JV1R7k2Eej9rGT8JpFiYDa4tZM6RZiFrHmMzgSrhHEqpDYKBe5B2ufNsL"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x3cffd56b47b7b41c56258d9c7731abadc360e073": {
+      "name": "LAZARUS GROUP",
+      "aliases": [
+        "HIDDEN COBRA",
+        "OFFICE 91",
+        "GUARDIANS OF PEACE",
+        "THE NEW ROMANTIC CYBER ARMY TEAM",
+        "WHOIS HACKING TEAM",
+        "RED DOT",
+        "TEMP.HERMIT",
+        "GROUP 77"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "27307",
+      "identity_id": "19011",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2019-09-13",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x3e37627deaa754090fbfbb8bd226c1ce66d255e9": {
+      "name": "LAZARUS GROUP",
+      "aliases": [
+        "HIDDEN COBRA",
+        "OFFICE 91",
+        "GUARDIANS OF PEACE",
+        "THE NEW ROMANTIC CYBER ARMY TEAM",
+        "WHOIS HACKING TEAM",
+        "RED DOT",
+        "TEMP.HERMIT",
+        "GROUP 77"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "27307",
+      "identity_id": "19011",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2019-09-13",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x43fa21d92141ba9db43052492e0deee5aa5f0a93": {
+      "name": "SEMENOV, Roman",
+      "aliases": [
+        "ROMA",
+        "POMA"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44718",
+      "identity_id": "36342",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-08-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x48549a34ae37b12f6a30566245176994e17c6b4a": {
+      "name": "CHATEX",
+      "aliases": [],
+      "entity_type": "Entity",
+      "entity_id": "33854",
+      "identity_id": "25478",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13757 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-11-08",
+      "secondary_sanctions": [],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n"
+        },
+        {
+          "currency": "USDT",
+          "value": "3LtcaPbCj87CwJHnRX3vh7c2y9RZQqeSy8"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3K7PMJyMNVnxqsfpmK9r9nJDtzDw9wNwNV"
+        },
+        {
+          "currency": "XBT",
+          "value": "3H3rh85qPaGLy2w6618yZNaH7i8asHv46B"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MTrJTFhYK9v1C6pjHtuweZSopfZa4b1wb"
+        },
+        {
+          "currency": "XBT",
+          "value": "347QFbejDBdMZFTxpmn6evvvqyXiqZTCd7"
+        },
+        {
+          "currency": "XBT",
+          "value": "33xWfziVZesgo83U5izdNCBVTnrtBpSwK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32wdqwX3zCEX3DhAVEcKwXCEGdzgBnx1R9"
+        },
+        {
+          "currency": "XBT",
+          "value": "3N9YcPBDky9UsMx1RTk33tL4jDkZfSnsPk"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q90zrdysy4flyacw7hsury3ajs9yzwtwp6guqpypx94w0d3p58hysvz6pde"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qw7vfgv3r5vnehafl0y95sclg3uqsj87wxs9ad628yjjcq33cwessr6ndyw"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q86tl9255vg5wldamfymaaz36uqxzm30gs7fhkljvzdlt9t38s3lqgdwdfq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3M7CGBPUJwXXSroWuZ6H5jiprdKCyf7V5M"
+        },
+        {
+          "currency": "XBT",
+          "value": "34kWCKF2wCbe6uinit2uL4ND6d8yxsuxKM"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qe95l438kzjcvnsm3kn8n5augf9gpctdlhsq7f7hpnkyvlr7rc7cqupapf7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32VgTk8kGvBsqkHhkvtNooGdtqZm46jTVo"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NPognMSbzyA2JYW2fpkVKWyBMi2XTq2Zt"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MzLtBQ4Lz9J6w4Qu55TktgxFKZwxYWrP6"
+        },
+        {
+          "currency": "XBT",
+          "value": "36YGN5dGzqrxMomTHdkT6cYVMnWBw8S7hD"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x4f428c11dc82388fa5136d636e613ad923eb700b": {
+      "name": "OJEDA AVILES, Armando de Jesus",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "57107",
+      "identity_id": "48526",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)",
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-05-20",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "SINALOA CARTEL",
+          "related_entity_id": "11440"
+        }
+      ],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c": {
+      "name": "SIM, Hyon Sop",
+      "aliases": [
+        "SIM, Hyo'n-so'p"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "42498",
+      "identity_id": "34122",
+      "programs": [
+        "NPWMD"
+      ],
+      "legal_authorities": [
+        "Executive Order 13382 (Non-proliferation)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-04-24",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [
+        {
+          "type": "Acting for or on behalf of",
+          "related_name": "KOREA KWANGSON BANKING CORP",
+          "related_entity_id": "11581"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF"
+        },
+        {
+          "currency": "TRX",
+          "value": "TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1"
+        },
+        {
+          "currency": "TRX",
+          "value": "TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T"
+        },
+        {
+          "currency": "TRX",
+          "value": "TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s"
+        },
+        {
+          "currency": "TRX",
+          "value": "TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2"
+        }
+      ],
+      "currency_types": [
+        "ETH",
+        "ARB",
+        "BSC"
+      ],
+      "reliability": ""
+    },
+    "0x502371699497d08d5339c870851898d6d72521dd": {
+      "name": "PEIJNENBURG, Alex Adrianus Martinus",
+      "aliases": [
+        "PEIJNENBURG, Aam",
+        "PEIJNENBURG, Alex Adrianus Martin"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "39585",
+      "identity_id": "31209",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4"
+        },
+        {
+          "currency": "XBT",
+          "value": "129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr"
+        },
+        {
+          "currency": "XBT",
+          "value": "12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Js6goCey2NaqPQptiLANLQGuk4d6mowjP"
+        },
+        {
+          "currency": "XBT",
+          "value": "13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN"
+        },
+        {
+          "currency": "XBT",
+          "value": "1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf"
+        },
+        {
+          "currency": "XBT",
+          "value": "386wa1UM6nA798AWNh64jdrejZyedeXgUN"
+        },
+        {
+          "currency": "XBT",
+          "value": "15UdZbmGPa2LatD3abtGpphgkHLFWftV4R"
+        },
+        {
+          "currency": "XBT",
+          "value": "16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x530a64c0ce595026a4a556b703644228179e2d57": {
+      "name": "SHEN, Xingbiao",
+      "aliases": [
+        "SHEN, Mike"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "45312",
+      "identity_id": "36936",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-10-03",
+      "secondary_sanctions": [],
+      "countries": [
+        "China"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3B7S6zrgxQVQUHTU8wstM23tB9afE7ojuX"
+        },
+        {
+          "currency": "USDT",
+          "value": "TEAqwfMhXLaomXhZ8KeMhx3njGmQEDnsUR"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x532b77b33a040587e9fd1800088225f99b8b0e8a": {
+      "name": "ALIVAND, Arash Estaki",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "55502",
+      "identity_id": "46849",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2025-09-16",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE",
+          "related_entity_id": "10465"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TYDUutYN4YLKUPeT7TG27Yyqw6kNVLq9QZ"
+        },
+        {
+          "currency": "TRX",
+          "value": "TRakpsE1mZjCUMNPyozR4BW2ZtJsF7ZWFN"
+        },
+        {
+          "currency": "TRX",
+          "value": "TQ5H49Wz3K57zNHmuXVp6uLzFwitxviABs"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x53b6936513e738f44fb50d2b9476730c0ab3bfc1": {
+      "name": "LAZARUS GROUP",
+      "aliases": [
+        "HIDDEN COBRA",
+        "OFFICE 91",
+        "GUARDIANS OF PEACE",
+        "THE NEW ROMANTIC CYBER ARMY TEAM",
+        "WHOIS HACKING TEAM",
+        "RED DOT",
+        "TEMP.HERMIT",
+        "GROUP 77"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "27307",
+      "identity_id": "19011",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2019-09-13",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x5512d943ed1f7c8a43f3435c85f7ab68b30121b0": {
+      "name": "CHATEX",
+      "aliases": [],
+      "entity_type": "Entity",
+      "entity_id": "33854",
+      "identity_id": "25478",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13757 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-11-08",
+      "secondary_sanctions": [],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n"
+        },
+        {
+          "currency": "USDT",
+          "value": "3LtcaPbCj87CwJHnRX3vh7c2y9RZQqeSy8"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3K7PMJyMNVnxqsfpmK9r9nJDtzDw9wNwNV"
+        },
+        {
+          "currency": "XBT",
+          "value": "3H3rh85qPaGLy2w6618yZNaH7i8asHv46B"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MTrJTFhYK9v1C6pjHtuweZSopfZa4b1wb"
+        },
+        {
+          "currency": "XBT",
+          "value": "347QFbejDBdMZFTxpmn6evvvqyXiqZTCd7"
+        },
+        {
+          "currency": "XBT",
+          "value": "33xWfziVZesgo83U5izdNCBVTnrtBpSwK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32wdqwX3zCEX3DhAVEcKwXCEGdzgBnx1R9"
+        },
+        {
+          "currency": "XBT",
+          "value": "3N9YcPBDky9UsMx1RTk33tL4jDkZfSnsPk"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q90zrdysy4flyacw7hsury3ajs9yzwtwp6guqpypx94w0d3p58hysvz6pde"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qw7vfgv3r5vnehafl0y95sclg3uqsj87wxs9ad628yjjcq33cwessr6ndyw"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q86tl9255vg5wldamfymaaz36uqxzm30gs7fhkljvzdlt9t38s3lqgdwdfq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3M7CGBPUJwXXSroWuZ6H5jiprdKCyf7V5M"
+        },
+        {
+          "currency": "XBT",
+          "value": "34kWCKF2wCbe6uinit2uL4ND6d8yxsuxKM"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qe95l438kzjcvnsm3kn8n5augf9gpctdlhsq7f7hpnkyvlr7rc7cqupapf7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32VgTk8kGvBsqkHhkvtNooGdtqZm46jTVo"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NPognMSbzyA2JYW2fpkVKWyBMi2XTq2Zt"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MzLtBQ4Lz9J6w4Qu55TktgxFKZwxYWrP6"
+        },
+        {
+          "currency": "XBT",
+          "value": "36YGN5dGzqrxMomTHdkT6cYVMnWBw8S7hD"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x57ec89a0c056163a0314e413320f9b3abe761259": {
+      "name": "GARANTEX EUROPE OU",
+      "aliases": [
+        "GARANTEX"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "36025",
+      "identity_id": "27649",
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)",
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-04-05",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024.",
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1"
+        },
+        {
+          "currency": "USDT",
+          "value": "3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV"
+        },
+        {
+          "currency": "TRX",
+          "value": "TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD"
+        },
+        {
+          "currency": "TRX",
+          "value": "TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x5a14e72060c11313e38738009254a90968f58f51": {
+      "name": "PEIJNENBURG, Alex Adrianus Martinus",
+      "aliases": [
+        "PEIJNENBURG, Aam",
+        "PEIJNENBURG, Alex Adrianus Martin"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "39585",
+      "identity_id": "31209",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4"
+        },
+        {
+          "currency": "XBT",
+          "value": "129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr"
+        },
+        {
+          "currency": "XBT",
+          "value": "12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Js6goCey2NaqPQptiLANLQGuk4d6mowjP"
+        },
+        {
+          "currency": "XBT",
+          "value": "13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN"
+        },
+        {
+          "currency": "XBT",
+          "value": "1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf"
+        },
+        {
+          "currency": "XBT",
+          "value": "386wa1UM6nA798AWNh64jdrejZyedeXgUN"
+        },
+        {
+          "currency": "XBT",
+          "value": "15UdZbmGPa2LatD3abtGpphgkHLFWftV4R"
+        },
+        {
+          "currency": "XBT",
+          "value": "16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x5a7a51bfb49f190e5a6060a5bc6052ac14a3b59f": {
+      "name": "SEMENOV, Roman",
+      "aliases": [
+        "ROMA",
+        "POMA"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44718",
+      "identity_id": "36342",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-08-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x5d5b5dafecbf31bdb08bfd3edad4f2694372d0ef": {
+      "name": "SOKOLOVSKI, Rolan",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "56360",
+      "identity_id": "47752",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2025-11-19",
+      "secondary_sanctions": [],
+      "countries": [
+        "Canada"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "WEDDING, Ryan James",
+          "related_entity_id": "56357"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf"
+        },
+        {
+          "currency": "TRX",
+          "value": "TBcLqqqyZjNj1ptuXFgj5H768NhNU5nDyn"
+        },
+        {
+          "currency": "XBT",
+          "value": "37fKFZQGMqdBkjSUub1jCDWGgSHwv9VxfZ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1JPqJ8sxLBvdHBqMqSFBmUkoh2vAuCUNvs"
+        },
+        {
+          "currency": "SOL",
+          "value": "42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x5f48c2a71b2cc96e3f0ccae4e39318ff0dc375b2": {
+      "name": "SEMENOV, Roman",
+      "aliases": [
+        "ROMA",
+        "POMA"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44718",
+      "identity_id": "36342",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-08-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x67d40ee1a85bf4a4bb7ffae16de985e8427b6b45": {
+      "name": "CHATEX",
+      "aliases": [],
+      "entity_type": "Entity",
+      "entity_id": "33854",
+      "identity_id": "25478",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13757 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-11-08",
+      "secondary_sanctions": [],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n"
+        },
+        {
+          "currency": "USDT",
+          "value": "3LtcaPbCj87CwJHnRX3vh7c2y9RZQqeSy8"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3K7PMJyMNVnxqsfpmK9r9nJDtzDw9wNwNV"
+        },
+        {
+          "currency": "XBT",
+          "value": "3H3rh85qPaGLy2w6618yZNaH7i8asHv46B"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MTrJTFhYK9v1C6pjHtuweZSopfZa4b1wb"
+        },
+        {
+          "currency": "XBT",
+          "value": "347QFbejDBdMZFTxpmn6evvvqyXiqZTCd7"
+        },
+        {
+          "currency": "XBT",
+          "value": "33xWfziVZesgo83U5izdNCBVTnrtBpSwK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32wdqwX3zCEX3DhAVEcKwXCEGdzgBnx1R9"
+        },
+        {
+          "currency": "XBT",
+          "value": "3N9YcPBDky9UsMx1RTk33tL4jDkZfSnsPk"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q90zrdysy4flyacw7hsury3ajs9yzwtwp6guqpypx94w0d3p58hysvz6pde"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qw7vfgv3r5vnehafl0y95sclg3uqsj87wxs9ad628yjjcq33cwessr6ndyw"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q86tl9255vg5wldamfymaaz36uqxzm30gs7fhkljvzdlt9t38s3lqgdwdfq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3M7CGBPUJwXXSroWuZ6H5jiprdKCyf7V5M"
+        },
+        {
+          "currency": "XBT",
+          "value": "34kWCKF2wCbe6uinit2uL4ND6d8yxsuxKM"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qe95l438kzjcvnsm3kn8n5augf9gpctdlhsq7f7hpnkyvlr7rc7cqupapf7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32VgTk8kGvBsqkHhkvtNooGdtqZm46jTVo"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NPognMSbzyA2JYW2fpkVKWyBMi2XTq2Zt"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MzLtBQ4Lz9J6w4Qu55TktgxFKZwxYWrP6"
+        },
+        {
+          "currency": "XBT",
+          "value": "36YGN5dGzqrxMomTHdkT6cYVMnWBw8S7hD"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x6b69e2a7545c166417a80c61a77562052bffa9c5": {
+      "name": "SHPS SHELBIT",
+      "aliases": [
+        "SHELBIT EXCHANGE"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "58287",
+      "identity_id": "49774",
+      "programs": [
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-08-07",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "SOL",
+          "value": "6wjqWWra8ombzaw6VHrG5xpQ972jCYF6bbHiFCbWmr4U"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qjzk63wwatq2f638psymq3qapn00aqgksyx56l3t8eg7zuuccwasq498khf"
+        },
+        {
+          "currency": "TRX",
+          "value": "TXN3hVukebhyYR31YPCYd7aJAvmUeXu1ab"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qz654h5qcqzalv6ltpxsk4ksdcc3e20wkedqntgnarv3a0t2e2p7scr48pl"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e": {
+      "name": "SEMENOV, Roman",
+      "aliases": [
+        "ROMA",
+        "POMA"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44718",
+      "identity_id": "36342",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-08-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x6f1ca141a28907f78ebaa64fb83a9088b02a8352": {
+      "name": "CHATEX",
+      "aliases": [],
+      "entity_type": "Entity",
+      "entity_id": "33854",
+      "identity_id": "25478",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13757 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-11-08",
+      "secondary_sanctions": [],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n"
+        },
+        {
+          "currency": "USDT",
+          "value": "3LtcaPbCj87CwJHnRX3vh7c2y9RZQqeSy8"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3K7PMJyMNVnxqsfpmK9r9nJDtzDw9wNwNV"
+        },
+        {
+          "currency": "XBT",
+          "value": "3H3rh85qPaGLy2w6618yZNaH7i8asHv46B"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MTrJTFhYK9v1C6pjHtuweZSopfZa4b1wb"
+        },
+        {
+          "currency": "XBT",
+          "value": "347QFbejDBdMZFTxpmn6evvvqyXiqZTCd7"
+        },
+        {
+          "currency": "XBT",
+          "value": "33xWfziVZesgo83U5izdNCBVTnrtBpSwK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32wdqwX3zCEX3DhAVEcKwXCEGdzgBnx1R9"
+        },
+        {
+          "currency": "XBT",
+          "value": "3N9YcPBDky9UsMx1RTk33tL4jDkZfSnsPk"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q90zrdysy4flyacw7hsury3ajs9yzwtwp6guqpypx94w0d3p58hysvz6pde"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qw7vfgv3r5vnehafl0y95sclg3uqsj87wxs9ad628yjjcq33cwessr6ndyw"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q86tl9255vg5wldamfymaaz36uqxzm30gs7fhkljvzdlt9t38s3lqgdwdfq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3M7CGBPUJwXXSroWuZ6H5jiprdKCyf7V5M"
+        },
+        {
+          "currency": "XBT",
+          "value": "34kWCKF2wCbe6uinit2uL4ND6d8yxsuxKM"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qe95l438kzjcvnsm3kn8n5augf9gpctdlhsq7f7hpnkyvlr7rc7cqupapf7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32VgTk8kGvBsqkHhkvtNooGdtqZm46jTVo"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NPognMSbzyA2JYW2fpkVKWyBMi2XTq2Zt"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MzLtBQ4Lz9J6w4Qu55TktgxFKZwxYWrP6"
+        },
+        {
+          "currency": "XBT",
+          "value": "36YGN5dGzqrxMomTHdkT6cYVMnWBw8S7hD"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x72a5843cc08275c8171e582972aa4fda8c397b2a": {
+      "name": "SECONDEYE SOLUTION",
+      "aliases": [
+        "FORWARDERZ"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "30518",
+      "identity_id": "22202",
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-04-15",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "INTERNET RESEARCH AGENCY LLC",
+          "related_entity_id": "23943"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1NE2NiGhhbkFPSEyNWwj7hKGhGDedBtSrQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "19D8PHBjZH29uS1uPZ4m3sVyqqfF8UFG9o"
+        },
+        {
+          "currency": "XBT",
+          "value": "1EYitrwBYNWuTBcjZFbEUdqHppe2raLpaF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9CKRHA3mx22DoT1QyNYrh85VSQ19Y1em"
+        },
+        {
+          "currency": "XBT",
+          "value": "182NGZbPJXwg2WDrhrPpR7tpiGQkNPF844"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NayLEVF3bEEbDtdF2Cwso1VdEtvVNh2qX"
+        },
+        {
+          "currency": "XBT",
+          "value": "16PhXY3hNNMTo8kpuJx2emh713KbWpkqci"
+        },
+        {
+          "currency": "XBT",
+          "value": "1GqChmWqGtsaLrGbHfgdrV5Nkvahtjjuxr"
+        },
+        {
+          "currency": "XBT",
+          "value": "18Ke1QWE9nQfXuhJijHggZuPJ5ZYxapoBK"
+        },
+        {
+          "currency": "XBT",
+          "value": "1QJUiNsNfji6mR1FjAwf6Eg9NxxHPoxpWL"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DtGgdCi9VPKz2Bpq8GQhUQEPnQ5HwaT9n"
+        },
+        {
+          "currency": "BCH",
+          "value": "18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB"
+        },
+        {
+          "currency": "LTC",
+          "value": "LQAhYwwK5AR1JQiQPr7vu8Pu4b6qcxxvNB"
+        },
+        {
+          "currency": "LTC",
+          "value": "LgwmgYnraU2uBWHVFUDgAmFCPYj5Yw8C9L"
+        },
+        {
+          "currency": "LTC",
+          "value": "LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x747afb5c7a7fc34b547cd0fdebf9b91759c5a52b": {
+      "name": "SIM, Hyon Sop",
+      "aliases": [
+        "SIM, Hyo'n-so'p"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "42498",
+      "identity_id": "34122",
+      "programs": [
+        "NPWMD"
+      ],
+      "legal_authorities": [
+        "Executive Order 13382 (Non-proliferation)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-04-24",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [
+        {
+          "type": "Acting for or on behalf of",
+          "related_name": "KOREA KWANGSON BANKING CORP",
+          "related_entity_id": "11581"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF"
+        },
+        {
+          "currency": "TRX",
+          "value": "TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1"
+        },
+        {
+          "currency": "TRX",
+          "value": "TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T"
+        },
+        {
+          "currency": "TRX",
+          "value": "TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s"
+        },
+        {
+          "currency": "TRX",
+          "value": "TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x76ea76ca4eb727f18956ab93445a94c5280412b9": {
+      "name": "SIM, Hyon Sop",
+      "aliases": [
+        "SIM, Hyo'n-so'p"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "42498",
+      "identity_id": "34122",
+      "programs": [
+        "NPWMD"
+      ],
+      "legal_authorities": [
+        "Executive Order 13382 (Non-proliferation)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-04-24",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [
+        {
+          "type": "Acting for or on behalf of",
+          "related_name": "KOREA KWANGSON BANKING CORP",
+          "related_entity_id": "11581"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF"
+        },
+        {
+          "currency": "TRX",
+          "value": "TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1"
+        },
+        {
+          "currency": "TRX",
+          "value": "TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T"
+        },
+        {
+          "currency": "TRX",
+          "value": "TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s"
+        },
+        {
+          "currency": "TRX",
+          "value": "TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x797d7ae72ebddcdea2a346c1834e04d1f8df102b": {
+      "name": "SEMENOV, Roman",
+      "aliases": [
+        "ROMA",
+        "POMA"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44718",
+      "identity_id": "36342",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-08-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x7ced75026204ac29c34bea98905d4c949f27361e": {
+      "name": "GARANTEX EUROPE OU",
+      "aliases": [
+        "GARANTEX"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "36025",
+      "identity_id": "27649",
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)",
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-04-05",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024.",
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1"
+        },
+        {
+          "currency": "USDT",
+          "value": "3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV"
+        },
+        {
+          "currency": "TRX",
+          "value": "TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD"
+        },
+        {
+          "currency": "TRX",
+          "value": "TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x7db418b5d567a4e0e8c59ad71be1fce48f3e6107": {
+      "name": "SECONDEYE SOLUTION",
+      "aliases": [
+        "FORWARDERZ"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "30518",
+      "identity_id": "22202",
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-04-15",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "INTERNET RESEARCH AGENCY LLC",
+          "related_entity_id": "23943"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1NE2NiGhhbkFPSEyNWwj7hKGhGDedBtSrQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "19D8PHBjZH29uS1uPZ4m3sVyqqfF8UFG9o"
+        },
+        {
+          "currency": "XBT",
+          "value": "1EYitrwBYNWuTBcjZFbEUdqHppe2raLpaF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9CKRHA3mx22DoT1QyNYrh85VSQ19Y1em"
+        },
+        {
+          "currency": "XBT",
+          "value": "182NGZbPJXwg2WDrhrPpR7tpiGQkNPF844"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NayLEVF3bEEbDtdF2Cwso1VdEtvVNh2qX"
+        },
+        {
+          "currency": "XBT",
+          "value": "16PhXY3hNNMTo8kpuJx2emh713KbWpkqci"
+        },
+        {
+          "currency": "XBT",
+          "value": "1GqChmWqGtsaLrGbHfgdrV5Nkvahtjjuxr"
+        },
+        {
+          "currency": "XBT",
+          "value": "18Ke1QWE9nQfXuhJijHggZuPJ5ZYxapoBK"
+        },
+        {
+          "currency": "XBT",
+          "value": "1QJUiNsNfji6mR1FjAwf6Eg9NxxHPoxpWL"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DtGgdCi9VPKz2Bpq8GQhUQEPnQ5HwaT9n"
+        },
+        {
+          "currency": "BCH",
+          "value": "18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB"
+        },
+        {
+          "currency": "LTC",
+          "value": "LQAhYwwK5AR1JQiQPr7vu8Pu4b6qcxxvNB"
+        },
+        {
+          "currency": "LTC",
+          "value": "LgwmgYnraU2uBWHVFUDgAmFCPYj5Yw8C9L"
+        },
+        {
+          "currency": "LTC",
+          "value": "LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x7f19720a857f834887fc9a7bc0a0fbe7fc7f8102": {
+      "name": "SECONDEYE SOLUTION",
+      "aliases": [
+        "FORWARDERZ"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "30518",
+      "identity_id": "22202",
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-04-15",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "INTERNET RESEARCH AGENCY LLC",
+          "related_entity_id": "23943"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1NE2NiGhhbkFPSEyNWwj7hKGhGDedBtSrQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "19D8PHBjZH29uS1uPZ4m3sVyqqfF8UFG9o"
+        },
+        {
+          "currency": "XBT",
+          "value": "1EYitrwBYNWuTBcjZFbEUdqHppe2raLpaF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9CKRHA3mx22DoT1QyNYrh85VSQ19Y1em"
+        },
+        {
+          "currency": "XBT",
+          "value": "182NGZbPJXwg2WDrhrPpR7tpiGQkNPF844"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NayLEVF3bEEbDtdF2Cwso1VdEtvVNh2qX"
+        },
+        {
+          "currency": "XBT",
+          "value": "16PhXY3hNNMTo8kpuJx2emh713KbWpkqci"
+        },
+        {
+          "currency": "XBT",
+          "value": "1GqChmWqGtsaLrGbHfgdrV5Nkvahtjjuxr"
+        },
+        {
+          "currency": "XBT",
+          "value": "18Ke1QWE9nQfXuhJijHggZuPJ5ZYxapoBK"
+        },
+        {
+          "currency": "XBT",
+          "value": "1QJUiNsNfji6mR1FjAwf6Eg9NxxHPoxpWL"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DtGgdCi9VPKz2Bpq8GQhUQEPnQ5HwaT9n"
+        },
+        {
+          "currency": "BCH",
+          "value": "18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB"
+        },
+        {
+          "currency": "LTC",
+          "value": "LQAhYwwK5AR1JQiQPr7vu8Pu4b6qcxxvNB"
+        },
+        {
+          "currency": "LTC",
+          "value": "LgwmgYnraU2uBWHVFUDgAmFCPYj5Yw8C9L"
+        },
+        {
+          "currency": "LTC",
+          "value": "LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x7f367cc41522ce07553e823bf3be79a889debe1b": {
+      "name": "POTEKHIN, Danil",
+      "aliases": [
+        "cronuswar",
+        "SERGEY, Kireev Valerievich"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "29584",
+      "identity_id": "21268",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2020-09-16",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1Q9UAQbcDezmyouFrzt94t4dSMxgsUfW1X"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Kys8fqDen8NGFUJ6AFcXfFW5qquuTH4eh"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x7ff9cfad3877f21d41da833e2f775db0569ee3d9": {
+      "name": "GARANTEX EUROPE OU",
+      "aliases": [
+        "GARANTEX"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "36025",
+      "identity_id": "27649",
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)",
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-04-05",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024.",
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1"
+        },
+        {
+          "currency": "USDT",
+          "value": "3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV"
+        },
+        {
+          "currency": "TRX",
+          "value": "TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD"
+        },
+        {
+          "currency": "TRX",
+          "value": "TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x83e5bc4ffa856bb84bb88581f5dd62a433a25e0d": {
+      "name": "PEIJNENBURG, Alex Adrianus Martinus",
+      "aliases": [
+        "PEIJNENBURG, Aam",
+        "PEIJNENBURG, Alex Adrianus Martin"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "39585",
+      "identity_id": "31209",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4"
+        },
+        {
+          "currency": "XBT",
+          "value": "129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr"
+        },
+        {
+          "currency": "XBT",
+          "value": "12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Js6goCey2NaqPQptiLANLQGuk4d6mowjP"
+        },
+        {
+          "currency": "XBT",
+          "value": "13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN"
+        },
+        {
+          "currency": "XBT",
+          "value": "1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf"
+        },
+        {
+          "currency": "XBT",
+          "value": "386wa1UM6nA798AWNh64jdrejZyedeXgUN"
+        },
+        {
+          "currency": "XBT",
+          "value": "15UdZbmGPa2LatD3abtGpphgkHLFWftV4R"
+        },
+        {
+          "currency": "XBT",
+          "value": "16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x8576acc5c05d6ce88f4e49bf65bdf0c62f91353c": {
+      "name": "ANDREYEV, Anton Nikolaeyvich",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "29703",
+      "identity_id": "21387",
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2020-09-10",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1Fz29BQp82pE3vXXcsZoMNQ3KSHfMzfMe3"
+        },
+        {
+          "currency": "LTC",
+          "value": "LWnbjLYUfqeokfbWM4FcU7uk2FP2DSxuWS"
+        },
+        {
+          "currency": "XBT",
+          "value": "1AeSq93WDNdLoEJ92sex7T8xQZoYYm8BtS"
+        },
+        {
+          "currency": "LTC",
+          "value": "LaYUy1DGfVSuSF5KbPhbLrm8kRotqiwUJn"
+        },
+        {
+          "currency": "ZEC",
+          "value": "t1WSKwCDL1QYRRUrCCknEs5tDLhtGVYu9KM"
+        },
+        {
+          "currency": "XBT",
+          "value": "1AoxtfiBQ22DvbhqAN9Ctb8sULMRhrdwTr"
+        },
+        {
+          "currency": "XBT",
+          "value": "18Qj1THHuETfYhuRDZycXJbWwDMGw73Poa"
+        },
+        {
+          "currency": "XBT",
+          "value": "1MnbhWe5wr7Ut45ReyQsm96PwnM9jD7KaH"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DYFJ6CuBvrxyoQSuBzVsNcetY9tvdsrag"
+        },
+        {
+          "currency": "XBT",
+          "value": "15Pt4NwZaUmMUwS2bQbyyncc7mzgWShtv8"
+        },
+        {
+          "currency": "XBT",
+          "value": "1PhqQpaGCrqSxQ6QDXcv14QCd1U98Zp34E"
+        },
+        {
+          "currency": "XBT",
+          "value": "13YBQr2Cp1YY3xqq2qngaPb7ca1o4ugeq6"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KgudqxMfYaGzqAA7MS4DcsqejtMteqhix"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FRyL9gmFGbzfYDAB4iY9836DJe3KSnjP9"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DbShx4r8i2XesthoDBf5EkYWz5dsKEusV"
+        },
+        {
+          "currency": "BSV",
+          "value": "12sjrrhoFEsedNRhtgwvvRqjFTh8fZTDX9"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0x8d79c73daae8630c88de372ba8f57592fa987607": {
+      "name": "KAYVANPOUR, Siavash",
+      "aliases": [
+        "HASHEM, Siavash",
+        "KAIVANPOUR, Siavash",
+        "KIWAN PORT, Siyawesh"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "58284",
+      "identity_id": "49771",
+      "programs": [
+        "SDGT",
+        "IRGC"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-08-07",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886",
+        "Additional Sanctions Information - Subject to Secondary Sanctions"
+      ],
+      "countries": [
+        "Iran",
+        "Dominica",
+        "Afghanistan"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TPgxjjB6AJeMSQFngbUM6dMMxPHa9GEtYa"
+        },
+        {
+          "currency": "XBT",
+          "value": "15Zt2mKuQ5Qy6DEXfDcbtsEVneoGQQXrS4"
+        },
+        {
+          "currency": "XBT",
+          "value": "1BUXxhcwzFukm9CUxnhag85sSXDkMRbXse"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x8dce2aac0de82bdcaf6b4373b79f94331b8e4995": {
+      "name": "GARANTEX EUROPE OU",
+      "aliases": [
+        "GARANTEX"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "36025",
+      "identity_id": "27649",
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)",
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-04-05",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024.",
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1"
+        },
+        {
+          "currency": "USDT",
+          "value": "3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV"
+        },
+        {
+          "currency": "TRX",
+          "value": "TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD"
+        },
+        {
+          "currency": "TRX",
+          "value": "TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x901bb9583b24d97e995513c6778dc6888ab6870e": {
+      "name": "LIFSHITS, Artem Mikhaylovich",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "29702",
+      "identity_id": "21386",
+      "programs": [
+        "ELECTION-EO13848",
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2020-09-10",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "12udabs2TkX7NXCSj6KpqXfakjE52ZPLhz"
+        },
+        {
+          "currency": "LTC",
+          "value": "Leo3j36nn1JcsUQruytQhFUdCdCH5YHMR3"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DT3tenf14cxz9WFNxmYrXFbB6TFiVWA9U"
+        },
+        {
+          "currency": "DASH",
+          "value": "Xs3vzQmNvAxRa3Xo8XzQqUb3BMgb9EogF4"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0x931546d9e66836abf687d2bc64b30407bac8c568": {
+      "name": "SEMENOV, Roman",
+      "aliases": [
+        "ROMA",
+        "POMA"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44718",
+      "identity_id": "36342",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-08-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x95584c303fcd48af5c6b9873015f2ad0ca84eae3": {
+      "name": "YUN, Song Guk",
+      "aliases": [
+        "YUN, So'ng-kuk"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "57034",
+      "identity_id": "48465",
+      "programs": [
+        "DPRK4"
+      ],
+      "legal_authorities": [
+        "Executive Order 13810 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-03-12",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0x961c5be54a2ffc17cf4cb021d863c42dacd47fc1": {
+      "name": "ZHANG, Wei",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "45391",
+      "identity_id": "37015",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-10-03",
+      "secondary_sanctions": [],
+      "countries": [
+        "China"
+      ],
+      "relationships": [
+        {
+          "type": "Leader or official of",
+          "related_name": "HEBEI CROVELL BIOTECH CO., LTD.",
+          "related_entity_id": "45381"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3NU9zkD8CCVGVmYnNNSN7PbU9sSFQBm5UV"
+        },
+        {
+          "currency": "TRX",
+          "value": "TRBACioxdrdsYEZHvJWiUDZcMdBPpEe5Ub"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x97b1043abd9e6fc31681635166d430a458d14f9c": {
+      "name": "KIM, Sang Man",
+      "aliases": [
+        "KIM, Sangman"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "43377",
+      "identity_id": "35001",
+      "programs": [
+        "DPRK4"
+      ],
+      "legal_authorities": [
+        "Executive Order 13810 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-05-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1D6gG9iKEhPitTcWRJiniuj1jYM2hNeAfJ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FCNgfZWpYMeYhy9t18AAkTBu8AsdoAc1Z"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x983a81ca6fb1e441266d2fbcb7d8e530ac2e05a2": {
+      "name": "VALERIAN LABS, INC.",
+      "aliases": [],
+      "entity_type": "Entity",
+      "entity_id": "45314",
+      "identity_id": "36938",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-10-03",
+      "secondary_sanctions": [],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "bc1qardcxz845jw83vgfvcmewhuxa0ag9gchjwmcfd"
+        }
+      ],
+      "currency_types": [
+        "ETH",
+        "USDT",
+        "USDC"
+      ],
+      "reliability": ""
+    },
+    "0x9be599d7867f5e1a2d7ec6db9710df2b98a15573": {
+      "name": "AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+      "aliases": [
+        "KOREA AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+        "\uc870\uc120\uc555\ub85d\uac15\uae30\uc220\uac1c\ubc1c\ud68c\uc0ac",
+        "KOREA APROKGANG TECHNOLOGY COMPANY",
+        "YALU RIVER TECHNOLOGY DEVELOPMENT COMPANY",
+        "AMNOKGANG TECHNOLOGY DEVELOPMENT CORPORATION"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "57056",
+      "identity_id": "48475",
+      "programs": [
+        "DPRK4"
+      ],
+      "legal_authorities": [
+        "Executive Order 13810 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-03-12",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TNrX2FwrHKoo4XACGkmSzqeK4pdnKYn6Z7"
+        },
+        {
+          "currency": "TRX",
+          "value": "TEEYCuGDyeNkuDj4u6GQRXxXo3Nh29r2vP"
+        },
+        {
+          "currency": "TRX",
+          "value": "TZB4NrX7k9ZsV6PRc1GigAztLL8WHpLvwP"
+        },
+        {
+          "currency": "TRX",
+          "value": "TDe2UNAvuUnTbbDo7518eMe3TXN5qJW8Ft"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0x9c2bc757b66f24d60f016b6237f8cdd414a879fa": {
+      "name": "JIMENEZ CASTRO, Mario Alberto",
+      "aliases": [
+        "KASTOR"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44029",
+      "identity_id": "35653",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-09-26",
+      "secondary_sanctions": [],
+      "countries": [
+        "Mexico"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0x9f4cda013e354b8fc285bf4b9a60460cee7f7ea9": {
+      "name": "SOUTHFRONT",
+      "aliases": [
+        "SOUTH FRONT",
+        "SOUTHFRONT: ANALYSIS & INTELLIGENCE"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "31212",
+      "identity_id": "22896",
+      "programs": [
+        "CYBER2",
+        "ELECTION-EO13848",
+        "NPWMD"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)",
+        "Executive Order 13382 (Non-proliferation)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-04-15",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Owned or Controlled By",
+          "related_name": "FEDERAL SECURITY SERVICE",
+          "related_entity_id": "21344"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Gbs4rjcVUtQd8p3CiFUCxPLZwRqurezRZ"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpf2cphc5dkuclkqur7lhj2yuqq9pk3hmukle77vhq"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qv7k70u2zynvem59u88ctdlaw7hc735d8xep9rq"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qw4cxpe6sxa5dg6sdwxjph959cw6yztrzl4r54s"
+        },
+        {
+          "currency": "BCH",
+          "value": "qzjv8hrdvz6edu4gkzpnd4w6jc7zf296g5e9kkq4lx"
+        },
+        {
+          "currency": "BCH",
+          "value": "qq3vlashthktqpeppuv7trmw070e3mydgq63zq348v"
+        },
+        {
+          "currency": "XMR",
+          "value": "884Bz8UH63aYsjVdkfWfScRYWZGGNbjFL7pztqvWNSrtYT4reFSwyvkCj9KEGUtheHhhMUj87ciTBFyzoesrMJ4L1FvSoxL"
+        },
+        {
+          "currency": "XMR",
+          "value": "49HqitRzdnhYjgTEAhgGpCfsjdTeMbUTU6cyR4JV1R7k2Eej9rGT8JpFiYDa4tZM6RZiFrHmMzgSrhHEqpDYKBe5B2ufNsL"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xa0e1c89ef1a489c9c7de96311ed5ce5d32c20e4b": {
+      "name": "LAZARUS GROUP",
+      "aliases": [
+        "HIDDEN COBRA",
+        "OFFICE 91",
+        "GUARDIANS OF PEACE",
+        "THE NEW ROMANTIC CYBER ARMY TEAM",
+        "WHOIS HACKING TEAM",
+        "RED DOT",
+        "TEMP.HERMIT",
+        "GROUP 77"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "27307",
+      "identity_id": "19011",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2019-09-13",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xa7e5d5a720f06526557c513402f2e6b5fa20b008": {
+      "name": "LIFSHITS, Artem Mikhaylovich",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "29702",
+      "identity_id": "21386",
+      "programs": [
+        "ELECTION-EO13848",
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13848 (Election)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2020-09-10",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "12udabs2TkX7NXCSj6KpqXfakjE52ZPLhz"
+        },
+        {
+          "currency": "LTC",
+          "value": "Leo3j36nn1JcsUQruytQhFUdCdCH5YHMR3"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DT3tenf14cxz9WFNxmYrXFbB6TFiVWA9U"
+        },
+        {
+          "currency": "DASH",
+          "value": "Xs3vzQmNvAxRa3Xo8XzQqUb3BMgb9EogF4"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xac4cc4b68ea24bbfaac8fd127b67ed445accce22": {
+      "name": "ALARCON PALOMARES, Rodrigo",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "57118",
+      "identity_id": "48537",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-05-20",
+      "secondary_sanctions": [],
+      "countries": [
+        "Mexico"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xb338962b92cd818d6aef0a32a9ecd01212a71f33": {
+      "name": "GARANTEX EUROPE OU",
+      "aliases": [
+        "GARANTEX"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "36025",
+      "identity_id": "27649",
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)",
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-04-05",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024.",
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1"
+        },
+        {
+          "currency": "USDT",
+          "value": "3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV"
+        },
+        {
+          "currency": "TRX",
+          "value": "TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD"
+        },
+        {
+          "currency": "TRX",
+          "value": "TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xb637f84b66876ebf609c2a4208905f9ddac9d075": {
+      "name": "YUN, Song Guk",
+      "aliases": [
+        "YUN, So'ng-kuk"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "57034",
+      "identity_id": "48465",
+      "programs": [
+        "DPRK4"
+      ],
+      "legal_authorities": [
+        "Executive Order 13810 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-03-12",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0xb6f5ec1a0a9cd1526536d3f0426c429529471f40": {
+      "name": "KIM, Sang Man",
+      "aliases": [
+        "KIM, Sangman"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "43377",
+      "identity_id": "35001",
+      "programs": [
+        "DPRK4"
+      ],
+      "legal_authorities": [
+        "Executive Order 13810 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-05-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1D6gG9iKEhPitTcWRJiniuj1jYM2hNeAfJ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FCNgfZWpYMeYhy9t18AAkTBu8AsdoAc1Z"
+        }
+      ],
+      "currency_types": [
+        "ETH",
+        "USDT",
+        "USDC"
+      ],
+      "reliability": ""
+    },
+    "0xbb69e01921b17cd22080968bcc96ba6115da6062": {
+      "name": "CRYPTO HOME DMCC",
+      "aliases": [],
+      "entity_type": "Entity",
+      "entity_id": "58258",
+      "identity_id": "49737",
+      "programs": [
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-08-07",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TTVJuXWCusAURrpNShiypauagEH1N4CrxV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G1V1b9s9uPsFCNL15ibZk44xsVygKsP2u"
+        },
+        {
+          "currency": "BNB",
+          "value": "bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xc103b7dc095c904b92081eef0c1640081ec01c10": {
+      "name": "SOKOLOVSKI, Rolan",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "56360",
+      "identity_id": "47752",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2025-11-19",
+      "secondary_sanctions": [],
+      "countries": [
+        "Canada"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "WEDDING, Ryan James",
+          "related_entity_id": "56357"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf"
+        },
+        {
+          "currency": "TRX",
+          "value": "TBcLqqqyZjNj1ptuXFgj5H768NhNU5nDyn"
+        },
+        {
+          "currency": "XBT",
+          "value": "37fKFZQGMqdBkjSUub1jCDWGgSHwv9VxfZ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1JPqJ8sxLBvdHBqMqSFBmUkoh2vAuCUNvs"
+        },
+        {
+          "currency": "SOL",
+          "value": "42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xc2a3829f459b3edd87791c74cd45402ba0a20be3": {
+      "name": "TASK FORCE RUSICH",
+      "aliases": [
+        "RUSICH SABOTAGE AND ASSAULT RECONNAISSANCE GROUP",
+        "SABOTAGE AND ASSAULT RECONNAISSANCE GROUP RUSICH",
+        "RUSICH TASK FORCE",
+        "MILITARY-PATRIOTIC CLUB RUSICH",
+        "DSHRG RUSICH",
+        "\u0414\u0428\u0420\u0413 \u0420\u0423\u0421\u0418\u0427"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "38665",
+      "identity_id": "30289",
+      "programs": [
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-09-15",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024."
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "USDT",
+          "value": "TX5GV4DyfxNB3rPkzZJhmqZ1efVmL4rEqG"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1ql7dlyh8xz6tpqk92vztrhqh88dmjvcwrmsemrm"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q2lpgjntr348pfvxhfy33ehmdzy3gmx8w4052z6"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xc455f7fd3e0e12afd51fba5c106909934d8a0e4a": {
+      "name": "CHATEX",
+      "aliases": [],
+      "entity_type": "Entity",
+      "entity_id": "33854",
+      "identity_id": "25478",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13757 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-11-08",
+      "secondary_sanctions": [],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n"
+        },
+        {
+          "currency": "USDT",
+          "value": "3LtcaPbCj87CwJHnRX3vh7c2y9RZQqeSy8"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3K7PMJyMNVnxqsfpmK9r9nJDtzDw9wNwNV"
+        },
+        {
+          "currency": "XBT",
+          "value": "3H3rh85qPaGLy2w6618yZNaH7i8asHv46B"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MTrJTFhYK9v1C6pjHtuweZSopfZa4b1wb"
+        },
+        {
+          "currency": "XBT",
+          "value": "347QFbejDBdMZFTxpmn6evvvqyXiqZTCd7"
+        },
+        {
+          "currency": "XBT",
+          "value": "33xWfziVZesgo83U5izdNCBVTnrtBpSwK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32wdqwX3zCEX3DhAVEcKwXCEGdzgBnx1R9"
+        },
+        {
+          "currency": "XBT",
+          "value": "3N9YcPBDky9UsMx1RTk33tL4jDkZfSnsPk"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q90zrdysy4flyacw7hsury3ajs9yzwtwp6guqpypx94w0d3p58hysvz6pde"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qw7vfgv3r5vnehafl0y95sclg3uqsj87wxs9ad628yjjcq33cwessr6ndyw"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q86tl9255vg5wldamfymaaz36uqxzm30gs7fhkljvzdlt9t38s3lqgdwdfq"
+        },
+        {
+          "currency": "XBT",
+          "value": "3M7CGBPUJwXXSroWuZ6H5jiprdKCyf7V5M"
+        },
+        {
+          "currency": "XBT",
+          "value": "34kWCKF2wCbe6uinit2uL4ND6d8yxsuxKM"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qe95l438kzjcvnsm3kn8n5augf9gpctdlhsq7f7hpnkyvlr7rc7cqupapf7"
+        },
+        {
+          "currency": "XBT",
+          "value": "32VgTk8kGvBsqkHhkvtNooGdtqZm46jTVo"
+        },
+        {
+          "currency": "XBT",
+          "value": "3NPognMSbzyA2JYW2fpkVKWyBMi2XTq2Zt"
+        },
+        {
+          "currency": "XBT",
+          "value": "3MzLtBQ4Lz9J6w4Qu55TktgxFKZwxYWrP6"
+        },
+        {
+          "currency": "XBT",
+          "value": "36YGN5dGzqrxMomTHdkT6cYVMnWBw8S7hD"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xcb74874f1e06fcf80a306e06e5379a44b488ba2d": {
+      "name": "AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+      "aliases": [
+        "KOREA AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY",
+        "\uc870\uc120\uc555\ub85d\uac15\uae30\uc220\uac1c\ubc1c\ud68c\uc0ac",
+        "KOREA APROKGANG TECHNOLOGY COMPANY",
+        "YALU RIVER TECHNOLOGY DEVELOPMENT COMPANY",
+        "AMNOKGANG TECHNOLOGY DEVELOPMENT CORPORATION"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "57056",
+      "identity_id": "48475",
+      "programs": [
+        "DPRK4"
+      ],
+      "legal_authorities": [
+        "Executive Order 13810 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-03-12",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TNrX2FwrHKoo4XACGkmSzqeK4pdnKYn6Z7"
+        },
+        {
+          "currency": "TRX",
+          "value": "TEEYCuGDyeNkuDj4u6GQRXxXo3Nh29r2vP"
+        },
+        {
+          "currency": "TRX",
+          "value": "TZB4NrX7k9ZsV6PRc1GigAztLL8WHpLvwP"
+        },
+        {
+          "currency": "TRX",
+          "value": "TDe2UNAvuUnTbbDo7518eMe3TXN5qJW8Ft"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xd04e33461fea8302c5e1e13895b60cee8aefda7f": {
+      "name": "SIM, Hyon Sop",
+      "aliases": [
+        "SIM, Hyo'n-so'p"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "42498",
+      "identity_id": "34122",
+      "programs": [
+        "NPWMD"
+      ],
+      "legal_authorities": [
+        "Executive Order 13382 (Non-proliferation)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-04-24",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [
+        {
+          "type": "Acting for or on behalf of",
+          "related_name": "KOREA KWANGSON BANKING CORP",
+          "related_entity_id": "11581"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF"
+        },
+        {
+          "currency": "TRX",
+          "value": "TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1"
+        },
+        {
+          "currency": "TRX",
+          "value": "TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T"
+        },
+        {
+          "currency": "TRX",
+          "value": "TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s"
+        },
+        {
+          "currency": "TRX",
+          "value": "TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xd0975b32cea532eadddfc9c60481976e39db3472": {
+      "name": "GRIMM, Matthew Simon",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "39593",
+      "identity_id": "31217",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1LpYKb3SXZPve9hsH2QEJZFX279wJVGowi"
+        },
+        {
+          "currency": "XBT",
+          "value": "15uqdxqNXQwVf5H7yZPz4TmEGeSccCwdor"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FjubFHV4mpYjBmvjsEhZssyiiA4TNmnm2"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LAh7PQwpd1uGiLHae5C5Xz9QXse3y2phq"
+        },
+        {
+          "currency": "XBT",
+          "value": "15yqWQ4sqr7jzCwDtZ3U1KaCa8WMEy7Mm2"
+        },
+        {
+          "currency": "XBT",
+          "value": "19GrL5jnUkGmHXVcraB1Etv5rXCANeLWpq"
+        },
+        {
+          "currency": "XBT",
+          "value": "39NG2LcGRHXxSr1irpEVnJMw4ydL231sEn"
+        },
+        {
+          "currency": "XBT",
+          "value": "3He6EyDaCUgmdr4GXqhxbeTQukaGLCByU2"
+        },
+        {
+          "currency": "XBT",
+          "value": "12NpCkhddSNiDkD9rRYUCHsTT9ReMNiJjG"
+        },
+        {
+          "currency": "XBT",
+          "value": "32jgFkZsTEjMFaBvxJnYvJEeTNKTmq5b32"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Hpj6qm9i7nMF3VkKfBFtjhEDpEjxHWvgv"
+        },
+        {
+          "currency": "XBT",
+          "value": "194xmrZA53UBsZau2PnJLdmVVW9m5feeS"
+        },
+        {
+          "currency": "XBT",
+          "value": "361NP7YcBPQ4KkLT3Y2QZeDEV4M3yi65Ar"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LuDiMd95Df4i2bcvrfw47t2GKpLLXAQMZ"
+        },
+        {
+          "currency": "XBT",
+          "value": "3A1HH3PseYMkh2nSrBb4kkVt3815kUNVVC"
+        },
+        {
+          "currency": "XBT",
+          "value": "1F317n2eJEMaEMGiwCqtd5XCU3wF7jzPEW"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HWjh69cVQvcPeLWVCyVmXEq72nyDSj5zP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1r6S9vpUZPS5rb6gSdwV2bvSFcN3uSq4q"
+        },
+        {
+          "currency": "XBT",
+          "value": "3Jpf9B5P8cvEKSSGp9cES3Upbms8VRnXUb"
+        },
+        {
+          "currency": "XBT",
+          "value": "3EL5vcYeu1cnivLtR7tnAX3bBirr9ATNAL"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xd5ed34b52ac4ab84d8fa8a231a3218bbf01ed510": {
+      "name": "FUNNULL TECHNOLOGY INC",
+      "aliases": [
+        "FUNNULL",
+        "FANG NENG CDN",
+        "\u65b9\u80fdCDN",
+        "FUNNULL LLC",
+        "FUNNULL INC",
+        "FUNNULL CDN"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "53953",
+      "identity_id": "45360",
+      "programs": [
+        "CYBER3"
+      ],
+      "legal_authorities": [
+        "Executive Order 14144 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2025-05-29",
+      "secondary_sanctions": [],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TNmRfnSUXZoWWzxcDDbf95eGQYXt1mJDt8"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xd8500c631dc32fa18645b7436344a99e4825e10e": {
+      "name": "GARANTEX EUROPE OU",
+      "aliases": [
+        "GARANTEX"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "36025",
+      "identity_id": "27649",
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)",
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-04-05",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024.",
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1"
+        },
+        {
+          "currency": "USDT",
+          "value": "3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV"
+        },
+        {
+          "currency": "TRX",
+          "value": "TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD"
+        },
+        {
+          "currency": "TRX",
+          "value": "TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xd882cfc20f52f2599d84b8e8d58c7fb62cfe344b": {
+      "name": "KARASAVIDI, Dmitrii",
+      "aliases": [
+        "KARASAVIDI, Dmitriy"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "29585",
+      "identity_id": "21269",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2020-09-16",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1Q6saNmqKkyFB9mFR68Ck8F7Dp7dTopF2W"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DDA93oZPn7wte2eR1ABwcFoxUFxkKMwCf"
+        },
+        {
+          "currency": "LTC",
+          "value": "LNwgtMxcKUQ51dw7bQL1yPQjBVZh6QEqsd"
+        },
+        {
+          "currency": "XMR",
+          "value": "5be5543ff73456ab9f2d207887e2af87322c651ea1a873c5b25b7ffae456c320"
+        },
+        {
+          "currency": "ZEC",
+          "value": "t1g7wowvQ8gn2v8jrU1biyJ26sieNqNsBJy"
+        },
+        {
+          "currency": "DASH",
+          "value": "XnPFsRWTaSgiVauosEwQ6dEitGYXgwznz2"
+        },
+        {
+          "currency": "BTG",
+          "value": "GPwg61XoHqQPNmAucFACuQ5H9sGCDv9TpS"
+        }
+      ],
+      "currency_types": [
+        "ETH",
+        "ETC"
+      ],
+      "reliability": ""
+    },
+    "0xdb2720ebad55399117ddb4c4a4afd9a4ccada8fe": {
+      "name": "DERAKHSHAN, Alireza",
+      "aliases": [
+        "DERAKHSHAN, Alireza Mohammad Javad"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "55484",
+      "identity_id": "46831",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2025-09-16",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE",
+          "related_entity_id": "10465"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TSxAAo67VTDgKT537EVXxdogkJtk9c6ojz"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xdcbeffbecce100cce9e4b153c4e15cb885643193": {
+      "name": "SEMENOV, Roman",
+      "aliases": [
+        "ROMA",
+        "POMA"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44718",
+      "identity_id": "36342",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-08-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xe05f529f5284d75624eba386cb716928c3b54a2a": {
+      "name": "SHPS SHELBIT",
+      "aliases": [
+        "SHELBIT EXCHANGE"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "58287",
+      "identity_id": "49774",
+      "programs": [
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-08-07",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "SOL",
+          "value": "6wjqWWra8ombzaw6VHrG5xpQ972jCYF6bbHiFCbWmr4U"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qjzk63wwatq2f638psymq3qapn00aqgksyx56l3t8eg7zuuccwasq498khf"
+        },
+        {
+          "currency": "TRX",
+          "value": "TXN3hVukebhyYR31YPCYd7aJAvmUeXu1ab"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qz654h5qcqzalv6ltpxsk4ksdcc3e20wkedqntgnarv3a0t2e2p7scr48pl"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xe1d865c3d669dcc8c57c8d023140cb204e672ee4": {
+      "name": "WANG, Yunhe",
+      "aliases": [
+        "WAN, Jack",
+        "WANG, Jack",
+        "WONG, Jack",
+        "TRAFFICCASH",
+        "TRAFFICCARB",
+        "WILSON, William"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "43421",
+      "identity_id": "35045",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)",
+        "Executive Order 13757 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2024-05-28",
+      "secondary_sanctions": [],
+      "countries": [
+        "China",
+        "Saint Kitts and Nevis"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "bc1q4namcagg5wljs0u20z6h2sqgsq4q5lts8rt2rr"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qdpazd6smrkq5hmw6lupq98za2fqtgmq3azv3av"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qwz0l2ceddckwdy5rh6zyrm3x4ha6gn5f2da5zg"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qw8evftpgc8wsmkemd8yl5fg2husza5z802xaym"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qv4krhj2qmpd9qz9xj9nhvj99fq8s9xsw05d485"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qu5vngdtcx8nc9d68pq8nv7pzcjrswsy87s66gk"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qtsl3ufenrv3zgrgm9z8xarcx22x8mfztuartyn"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qtrrfhr0f3ufsrjxfv8a7p3yuqj0spe4cm6vaws"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qte9ret332gwrk6e7vqc87d807npzvdj5savg4h"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qtdupwe722vcc5e0vh94cgwfs0ep4gzwyfsf75q"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qnykkrlk67f9kdqvzyw2ndu3xmef5z2e52886yl"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qllmlvy5u038yvwywu803p53g8udcm8w7k4qxu9"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qlfpg2xn39u580cmwq6rymt8jdhcmj8520jhgh0"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1ql7rnd70aejdxt3f9fzdlfazjlc9hvdmut8ad8s"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1ql526s72gycmvq7hek6j3tuwwmcpv4rgs0auxu7"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qh3lw22uqwrywr8lpun20q2ma528a4yqmgf3uqp"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qgffxa65gr579tsz55n87pal2a777ygzg69d2yz"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qedvcgh32dud85yt7fu6s7qavthlh38gtwa7rhx"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qau9pmgc8l6rxpdwwap3fd6zprh5yp9mpe9jl0h"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qakycg2zp8hydg95lc9cheumpa9yfpdeyrqqh5f"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0xe1e4c5e5ed8f03ae61b581e2def126025f2b9401": {
+      "name": "SOKOLOVSKI, Rolan",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "56360",
+      "identity_id": "47752",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2025-11-19",
+      "secondary_sanctions": [],
+      "countries": [
+        "Canada"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "WEDDING, Ryan James",
+          "related_entity_id": "56357"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf"
+        },
+        {
+          "currency": "TRX",
+          "value": "TBcLqqqyZjNj1ptuXFgj5H768NhNU5nDyn"
+        },
+        {
+          "currency": "XBT",
+          "value": "37fKFZQGMqdBkjSUub1jCDWGgSHwv9VxfZ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1JPqJ8sxLBvdHBqMqSFBmUkoh2vAuCUNvs"
+        },
+        {
+          "currency": "SOL",
+          "value": "42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xe3d35f68383732649669aa990832e017340dbca5": {
+      "name": "ALIVAND, Arash Estaki",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "55502",
+      "identity_id": "46849",
+      "programs": [
+        "IFSR",
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2025-09-16",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "ISLAMIC REVOLUTIONARY GUARD CORPS (IRGC)-QODS FORCE",
+          "related_entity_id": "10465"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TYDUutYN4YLKUPeT7TG27Yyqw6kNVLq9QZ"
+        },
+        {
+          "currency": "TRX",
+          "value": "TRakpsE1mZjCUMNPyozR4BW2ZtJsF7ZWFN"
+        },
+        {
+          "currency": "TRX",
+          "value": "TQ5H49Wz3K57zNHmuXVp6uLzFwitxviABs"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xe7aa314c77f4233c18c6cc84384a9247c0cf367b": {
+      "name": "SUEX OTC, S.R.O.",
+      "aliases": [
+        "SUCCESSFUL EXCHANGE"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "33151",
+      "identity_id": "24775",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-09-21",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "12HQDsicffSBaYdJ6BhnE22sfjTESmmzKx"
+        },
+        {
+          "currency": "XBT",
+          "value": "1L4ncif9hh9TnUveqWq77HfWWt6CJWtrnb"
+        },
+        {
+          "currency": "XBT",
+          "value": "13mnk8SvDGqsQTHbiGiHBXqtaQCUKfcsnP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Edue8XZCWNoDBNZgnQkCCivDyr9GEo4x6"
+        },
+        {
+          "currency": "XBT",
+          "value": "1ECeZBxCVJ8Wm2JSN3Cyc6rge2gnvD3W5K"
+        },
+        {
+          "currency": "XBT",
+          "value": "1J9oGoAiHeRfeMZeUnJ9W7RpV55CdKtgYE"
+        },
+        {
+          "currency": "XBT",
+          "value": "1295rkVyNfFpqZpXvKGhDqwhP1jZcNNDMV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LiNmTUPSJEd92ZgVJjAV3RT9BzUjvUCkx"
+        },
+        {
+          "currency": "XBT",
+          "value": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz"
+        },
+        {
+          "currency": "XBT",
+          "value": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qdt3gml5z5n50y5hm04u2yjdphefkm0fl2zdj68"
+        },
+        {
+          "currency": "USDT",
+          "value": "1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz"
+        },
+        {
+          "currency": "USDT",
+          "value": "1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP"
+        },
+        {
+          "currency": "USDT",
+          "value": "1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY"
+        },
+        {
+          "currency": "USDT",
+          "value": "1Df883c96LVauVsx9FEgnsourD8DELwCUQ"
+        },
+        {
+          "currency": "XBT",
+          "value": "1B64QRxfaa35MVkf7sDjuGUYAP5izQt7Qi"
+        },
+        {
+          "currency": "USDT",
+          "value": "16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xe950dc316b836e4eefb8308bf32bf7c72a1358ff": {
+      "name": "GAZA NOW",
+      "aliases": [
+        "GNNANOW",
+        "GAZAALAN",
+        "GAZAALANNET"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "47635",
+      "identity_id": "39259",
+      "programs": [
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2024-03-27",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "HAMAS",
+          "related_entity_id": "4695"
+        },
+        {
+          "type": "Owned or Controlled By",
+          "related_name": "AYASH, Mustafa",
+          "related_entity_id": "48184"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Q8H2ZWMtc4R1M3mkmhnTjCoYKTeCFigDP"
+        },
+        {
+          "currency": "USDT",
+          "value": "TTgcTTNbNuFdbrhvbjMZVrdU5KALyzDaPw"
+        },
+        {
+          "currency": "USDT",
+          "value": "TGJVc32ig2u8tQsYMLE7KXHT5NDQroaVNU"
+        },
+        {
+          "currency": "USDT",
+          "value": "TXEsK1sEsKjZ1xtHitnyAAoqw3WLdYdRNW"
+        },
+        {
+          "currency": "USDT",
+          "value": "TH96tFMn8KGiYSLiwcV3E2UiaJc8jmcbz3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": "Confirmed"
+    },
+    "0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921": {
+      "name": "SEMENOV, Roman",
+      "aliases": [
+        "ROMA",
+        "POMA"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "44718",
+      "identity_id": "36342",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-08-23",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xefe301d259f525ca1ba74a7977b80d5b060b3cca": {
+      "name": "PEIJNENBURG, Alex Adrianus Martinus",
+      "aliases": [
+        "PEIJNENBURG, Aam",
+        "PEIJNENBURG, Alex Adrianus Martin"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "39585",
+      "identity_id": "31209",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-11-09",
+      "secondary_sanctions": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7"
+        },
+        {
+          "currency": "XBT",
+          "value": "3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4"
+        },
+        {
+          "currency": "XBT",
+          "value": "129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr"
+        },
+        {
+          "currency": "XBT",
+          "value": "12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW"
+        },
+        {
+          "currency": "XBT",
+          "value": "1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF"
+        },
+        {
+          "currency": "XBT",
+          "value": "1Js6goCey2NaqPQptiLANLQGuk4d6mowjP"
+        },
+        {
+          "currency": "XBT",
+          "value": "13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA"
+        },
+        {
+          "currency": "XBT",
+          "value": "1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV"
+        },
+        {
+          "currency": "XBT",
+          "value": "1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN"
+        },
+        {
+          "currency": "XBT",
+          "value": "1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf"
+        },
+        {
+          "currency": "XBT",
+          "value": "386wa1UM6nA798AWNh64jdrejZyedeXgUN"
+        },
+        {
+          "currency": "XBT",
+          "value": "15UdZbmGPa2LatD3abtGpphgkHLFWftV4R"
+        },
+        {
+          "currency": "XBT",
+          "value": "16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i"
+        },
+        {
+          "currency": "XBT",
+          "value": "1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d"
+        },
+        {
+          "currency": "BCH",
+          "value": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xf2235d55b2950a0b1317469d72d07ae65b2e27cb": {
+      "name": "OJEDA AVILES, Armando de Jesus",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "57107",
+      "identity_id": "48526",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059",
+        "SDGT"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)",
+        "Executive Order 13224 (Terrorism)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2026-05-20",
+      "secondary_sanctions": [
+        "Secondary sanctions risk section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "relationships": [
+        {
+          "type": "Providing support to",
+          "related_name": "SINALOA CARTEL",
+          "related_entity_id": "11440"
+        }
+      ],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xf3701f445b6bdafedbca97d1e477357839e4120d": {
+      "name": "KONDRATIEV, Ivan Gennadievich",
+      "aliases": [
+        "KONDRATYEV, Ivan",
+        "KONDRATEV, Ivan",
+        "BASSTERLORD",
+        "FISHEYE",
+        "EDITOR",
+        "@AL3XL7",
+        "JACKROCK#3337",
+        "@BASSTERLORD 0170742922"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "47682",
+      "identity_id": "39306",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13694 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2024-02-20",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "bc1q5jqgm7nvrhaw2rh2vk0dk8e4gg5g373g0vz07r"
+        },
+        {
+          "currency": "XBT",
+          "value": "32pTjxTNi7snk8sodrgfmdKao3DEn1nVJM"
+        },
+        {
+          "currency": "XBT",
+          "value": "15cRqR3TXS1JehBGWERuxFE8NhWZzfoeeU"
+        },
+        {
+          "currency": "XBT",
+          "value": "1A7SKE2dQtezLktCY8peLsdAtkqxV9r1dC"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1q8ew45w2agdffrnwp6adt2gqrc9n4mkev9ns29c"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qagp0gy58v8hqvw4p2wsphcxg067rrppp45hexr"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qn6segn8km4nfdp9vueu6msfjsaxaqgun9h60n9"
+        },
+        {
+          "currency": "XBT",
+          "value": "bc1qx9upga7f09tsetqf78wa3qrmcjar58mkwz6ng6"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xf4377eda661e04b6dda78969796ed31658d602d4": {
+      "name": "GARANTEX EUROPE OU",
+      "aliases": [
+        "GARANTEX"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "36025",
+      "identity_id": "27649",
+      "programs": [
+        "CYBER4",
+        "RUSSIA-EO14024"
+      ],
+      "legal_authorities": [
+        "Executive Order 14024 (Russia)",
+        "Executive Order 14306 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2022-04-05",
+      "secondary_sanctions": [
+        "Secondary sanctions risk See Section 11 of Executive Order 14024.",
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1"
+        },
+        {
+          "currency": "USDT",
+          "value": "3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV"
+        },
+        {
+          "currency": "TRX",
+          "value": "TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD"
+        },
+        {
+          "currency": "TRX",
+          "value": "TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xf7b31119c2682c88d88d455dbb9d5932c65cf1be": {
+      "name": "LAZARUS GROUP",
+      "aliases": [
+        "HIDDEN COBRA",
+        "OFFICE 91",
+        "GUARDIANS OF PEACE",
+        "THE NEW ROMANTIC CYBER ARMY TEAM",
+        "WHOIS HACKING TEAM",
+        "RED DOT",
+        "TEMP.HERMIT",
+        "GROUP 77"
+      ],
+      "entity_type": "Entity",
+      "entity_id": "27307",
+      "identity_id": "19011",
+      "programs": [
+        "DPRK3"
+      ],
+      "legal_authorities": [
+        "Executive Order 13722 (North Korea)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2019-09-13",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [],
+      "relationships": [],
+      "other_crypto": [],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xfac583c0cf07ea434052c49115a4682172ab6b4f": {
+      "name": "WANG, Mingming",
+      "aliases": [],
+      "entity_type": "Individual",
+      "entity_id": "45404",
+      "identity_id": "37028",
+      "programs": [
+        "ILLICIT-DRUGS-EO14059"
+      ],
+      "legal_authorities": [
+        "Executive Order 14059 (Illicit Drugs)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-10-03",
+      "secondary_sanctions": [],
+      "countries": [
+        "China"
+      ],
+      "relationships": [
+        {
+          "type": "Leader or official of",
+          "related_name": "HEBEI GUANLANG BIOTECHNOLOGY CO., LTD.",
+          "related_entity_id": "45380"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "1MLPqwaFFUBZePTjpR3nxRoK19Cv9mPCc7"
+        },
+        {
+          "currency": "XBT",
+          "value": "3HePkztPU6UsdENxnyQHFrdZA6eVKeMtvz"
+        },
+        {
+          "currency": "XBT",
+          "value": "TUCsTq7TofTCJRRoHk6RvhMoS2mJLm5Yzq"
+        }
+      ],
+      "currency_types": [
+        "USDT"
+      ],
+      "reliability": ""
+    },
+    "0xfb3eff152ea55d1bfa04dbdd509a80fd7b72cdeb": {
+      "name": "SIM, Hyon Sop",
+      "aliases": [
+        "SIM, Hyo'n-so'p"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "42498",
+      "identity_id": "34122",
+      "programs": [
+        "NPWMD"
+      ],
+      "legal_authorities": [
+        "Executive Order 13382 (Non-proliferation)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-04-24",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [
+        {
+          "type": "Acting for or on behalf of",
+          "related_name": "KOREA KWANGSON BANKING CORP",
+          "related_entity_id": "11581"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF"
+        },
+        {
+          "currency": "TRX",
+          "value": "TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1"
+        },
+        {
+          "currency": "TRX",
+          "value": "TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T"
+        },
+        {
+          "currency": "TRX",
+          "value": "TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s"
+        },
+        {
+          "currency": "TRX",
+          "value": "TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xfda1ec4a6178d4916b001a065422d31ebe5f62ff": {
+      "name": "SIM, Hyon Sop",
+      "aliases": [
+        "SIM, Hyo'n-so'p"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "42498",
+      "identity_id": "34122",
+      "programs": [
+        "NPWMD"
+      ],
+      "legal_authorities": [
+        "Executive Order 13382 (Non-proliferation)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2023-04-24",
+      "secondary_sanctions": [
+        "Secondary sanctions risk North Korea Sanctions Regulations, sections 510.201 and 510.210"
+      ],
+      "countries": [
+        "Korea, North"
+      ],
+      "relationships": [
+        {
+          "type": "Acting for or on behalf of",
+          "related_name": "KOREA KWANGSON BANKING CORP",
+          "related_entity_id": "11581"
+        }
+      ],
+      "other_crypto": [
+        {
+          "currency": "TRX",
+          "value": "TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF"
+        },
+        {
+          "currency": "TRX",
+          "value": "TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu"
+        },
+        {
+          "currency": "TRX",
+          "value": "TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1"
+        },
+        {
+          "currency": "TRX",
+          "value": "TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T"
+        },
+        {
+          "currency": "TRX",
+          "value": "TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s"
+        },
+        {
+          "currency": "TRX",
+          "value": "TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2"
+        }
+      ],
+      "currency_types": [
+        "ETH"
+      ],
+      "reliability": ""
+    },
+    "0xfec8a60023265364d066a1212fde3930f6ae8da7": {
+      "name": "POLYANIN, Yevgeniy Igorevich",
+      "aliases": [
+        "POLIANIN, Evegnii Igorevich",
+        "POLYANIN, Evgeniy",
+        "POLYANIN, Evgeniy Igorevich",
+        "POLYANIN, Evgenii Igorevich"
+      ],
+      "entity_type": "Individual",
+      "entity_id": "33858",
+      "identity_id": "25482",
+      "programs": [
+        "CYBER2"
+      ],
+      "legal_authorities": [
+        "Executive Order 13757 (Cyber)"
+      ],
+      "sanctions_types": [
+        "Block"
+      ],
+      "sanctions_lists": [
+        "SDN List"
+      ],
+      "list_date": "2021-11-08",
+      "secondary_sanctions": [
+        "Secondary sanctions risk Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "relationships": [],
+      "other_crypto": [
+        {
+          "currency": "XBT",
+          "value": "158treVZBGMBThoaympxccPdZPtqUfYrT9"
+        },
+        {
+          "currency": "XBT",
+          "value": "389Sft4nJFkPGhbagk9FN4jXncA9piYTuU"
+        },
+        {
+          "currency": "XBT",
+          "value": "39Te8MbphSgs7npDJPj2hbNzhke61NTcnB"
+        },
+        {
+          "currency": "XBT",
+          "value": "31p6woV4e55HUfC2aGynFhzQnGoJFW26cD"
+        },
+        {
+          "currency": "XBT",
+          "value": "3DNsaQnaUz7wkQny1ZDSmtz6QfbEShxoDD"
+        },
+        {
+          "currency": "XBT",
+          "value": "3AjyprBY5yhijiCjUC5NUJutGbwhd3AQdE"
+        }
+      ],
+      "currency_types": [
+        "USDT"
+      ],
+      "reliability": ""
+    }
+  }
+}
