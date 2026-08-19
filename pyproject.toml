@@ -1,0 +1,29 @@
+[project]
+name = "wallet-investigator"
+version = "0.1.0"
+description = "Ethereum wallet risk-analysis tool"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dash>=2.18",
+    "dash-cytoscape>=1.0",
+    "httpx>=0.27",
+    "langchain>=0.3",
+    "langchain-openai>=0.3",
+    "networkx>=3.3",
+    "pydantic>=2.0",
+    "python-dotenv>=1.0",
+]
+
+[project.scripts]
+wallet-investigator = "wallet_investigator.app:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/wallet_investigator"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/wallet_investigator", "data", "README.md"]
