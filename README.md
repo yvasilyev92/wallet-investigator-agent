@@ -1,4 +1,4 @@
-# Wallet Investigator
+# Agentic Wallet Investigator
 
 Ethereum-mainnet wallet risk tool: map a wallet's counterparties, screen them against OFAC and Etherscan labels, score simple heuristics, and click a node for an agent-written case file.
 
@@ -34,13 +34,13 @@ Investigation is deterministic. Agentic AI is a **bounded tool loop on click**, 
 
 When you tap a node, the app starts an agent whose job is: write a compliance-style markdown briefing for **that one address**. The model does not fetch the chain itself and does not invent a new score. It may call local tools that read facts already computed:
 
-| Tool | What it returns |
-|---|---|
-| `get_score` | Frozen heuristic score, bucket, and rule reasons |
-| `get_ofac_record` | SDN metadata if the address is in the local OFAC extract (name, aliases, programs, legal authorities, list date, secondary-sanctions language, related entities) |
-| `get_neighbor_context` | 1-hop counterparties already in the graph, with their scores and OFAC names |
-| `lookup_program` | Plain-English gloss of an OFAC program code (e.g. `DPRK3`, `ILLICIT-DRUGS-EO14059`) from a static glossary — no web search |
-| `get_labels` | Screening pills already attached to the wallet (OFAC + Etherscan) |
+| Tool                   | What it returns                                                                                                                                                  |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `get_score`            | Frozen heuristic score, bucket, and rule reasons                                                                                                                 |
+| `get_ofac_record`      | SDN metadata if the address is in the local OFAC extract (name, aliases, programs, legal authorities, list date, secondary-sanctions language, related entities) |
+| `get_neighbor_context` | 1-hop counterparties already in the graph, with their scores and OFAC names                                                                                      |
+| `lookup_program`       | Plain-English gloss of an OFAC program code (e.g. `DPRK3`, `ILLICIT-DRUGS-EO14059`) from a static glossary — no web search                                       |
+| `get_labels`           | Screening pills already attached to the wallet (OFAC + Etherscan)                                                                                                |
 
 The agent is instructed to quote the given score, never re-decide risk, never browse the web, and never invent listings or counterparties the tools did not return. It then writes a multi-section case file (verdict, identity, why this score, network context, labels, caveats).
 
@@ -52,17 +52,17 @@ That split is intentional: **heuristics own the number; the agent owns the narra
 
 The number on a node is **not** a probability, a model output, or an official risk rating. It is a 0–100 total from three yes/no rules in `src/wallet_investigator/scoring.py`. Fired rules add their points; the sum is capped at 100. Node color is the bucket of that total.
 
-| Bucket | Score | Typical meaning |
-|---|---|---|
-| Low | 0–29 | No OFAC proximity in this graph. Pass-through alone (25) still lands here. |
-| Medium | 30–69 | A sanctioned address is two hops away (40), optionally plus pass-through (65). |
-| High | 70–100 | Direct OFAC hit (80). Adding other rules only changes the total up to the cap. |
+| Bucket | Score  | Typical meaning                                                                |
+| ------ | ------ | ------------------------------------------------------------------------------ |
+| Low    | 0–29   | No OFAC proximity in this graph. Pass-through alone (25) still lands here.     |
+| Medium | 30–69  | A sanctioned address is two hops away (40), optionally plus pass-through (65). |
+| High   | 70–100 | Direct OFAC hit (80). Adding other rules only changes the total up to the cap. |
 
-| Rule | Points | When it fires |
-|---|---|---|
-| Direct sanctioned | 80 | The wallet **is** on the local OFAC extract, **or** it transacted with an address that is. |
-| Two-hop sanctioned | 40 | A sanctioned address is exactly two hops away in the investigation graph, and is not also a direct counterparty (so it does not double-count the direct rule). |
-| Pass-through | 25 | At least 90% of incoming ETH value also left, and at least 90% of incoming value had an outbound tx within **1 hour**. Coarse mixer / peel-chain proxy, not a full flow trace. |
+| Rule               | Points | When it fires                                                                                                                                                                  |
+| ------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Direct sanctioned  | 80     | The wallet **is** on the local OFAC extract, **or** it transacted with an address that is.                                                                                     |
+| Two-hop sanctioned | 40     | A sanctioned address is exactly two hops away in the investigation graph, and is not also a direct counterparty (so it does not double-count the direct rule).                 |
+| Pass-through       | 25     | At least 90% of incoming ETH value also left, and at least 90% of incoming value had an outbound tx within **1 hour**. Coarse mixer / peel-chain proxy, not a full flow trace. |
 
 Points and cutoffs live in `src/wallet_investigator/config.py` (`RULE_*_POINTS`, `BUCKET_*_MIN`, `PASSTHROUGH_*`). They are starting values, not calibrated.
 
@@ -113,4 +113,5 @@ Then open http://127.0.0.1:8050
 ```bash
 uv run python scripts/extract_ofac_eth.py --xml sdn_enhanced.xml --out data/ofac_sanctions.json
 ```
+
 - Etherscan nametag lookup is per-address (no clean bulk API on the free tier) and is cached in memory.
